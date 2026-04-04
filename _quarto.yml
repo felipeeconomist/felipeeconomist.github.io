@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Felipe Almeida"
+  navbar:
+  #ccepts right/left/center; you can also place items individually on the left, right, and center
+    right: 
+      - href: index.qmd
+        text: Home
+      - href: education.qmd
+        text: Education
+      - href: research.qmd
+        text: Research
+      - href: experience.qmd
+        text: Experience 
+  page-footer:
+    background: light # or `dark`
+    left: Copyright 2021, Felipe Almeida
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/samanthacsik/samanthacsik.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+# https://ucsb-meds.github.io/customizing-quarto-websites/#/fa-shortcode
+
+
+format:
+  html:
+    theme: cosmo #https://bootswatch.com/
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual
+

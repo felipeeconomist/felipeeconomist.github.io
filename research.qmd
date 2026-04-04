@@ -1,0 +1,235 @@
+---
+title: "Research"
+page-layout: full
+toc: false
+---
+
+```{=html}
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
+           border-bottom:2px solid #050505;
+           padding-bottom:0.15rem;
+           margin-bottom:0.8rem;">
+Work in Progress
+</h2>
+
+<p style="margin:0; line-height:1.9;">
+
+Almeida, F. M. de S. — <em>Corn ethanol for Sustainable Aviation Fuel (SAF) in the United States: Market and welfare effects</em>.
+<br>
+
+Almeida, F. M. de S. — <em>Eco-efficiency and economic–environmental trade-offs in corn and soybean production in Nebraska</em>.
+<br>
+
+Rocha Junior, A. B.; Almeida, F. M. de S. — <em>More land, less productivity? The relationship between deforestation and agriculture in Brazil</em>.
+<br>
+
+<!--Castro, N. R.; Almeida, F. M. de S.; Silva, R. P. — <em>Employment trends in Brazil’s soy industry</em>.
+<br>-->
+
+<!--Almeida, F. M. de S.; Machado, G. C.; Castro, N. R. — <em>Agricultural labor earnings gaps in Brazil</em>.
+<br>-->
+
+Lobo, G. D.; Rocha Junior, A. B.; Almeida, F. M. de S.; Danelon, A. F.; Almeida, A. N. — 
+<em>Unsafe techniques and agrochemical poisoning: Evidence from Brazil</em>.
+<br>
+
+Lobo, G. D.; Almeida, F. M. de S.; Rocha Junior, A. B.; Danelon, A. F.; Almeida, A. N. — 
+<em>Agrochemical poisoning and suicide attempts in rural Brazil: A spatial econometric approach</em>.
+
+</p>
+
+<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
+           border-bottom:2px solid #050505;
+           padding-bottom:0.15rem;
+           margin-bottom:0.8rem;">
+Papers Under Review
+</h2>
+
+<p style="margin:0; line-height:1.9;">
+
+Castro, N. R.; Fachinelli, A. L.; Almeida, F. M. de S.; Silva, A. F. (2026) — 
+<em>Agribusiness in São Paulo: Characterization and GDP performance (2010–2023)</em>.
+<br>
+
+Perrin, R.; Almeida, F. M. de S.; Fulginiti, L.; Dennis, E. (2026) — 
+<em>Benchmark carbon intensity for Northern Plains corn and soybeans</em>.
+<br>
+
+Almeida, F. M. de S.; Perrin, R.; Fulginiti, L.; Dennis, E. (2026) — 
+<em>Carbon intensity of co-products fed to beef cattle in the United States</em>.
+
+</p>
+
+<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
+           border-bottom:2px solid #050505;
+           padding-bottom:0.15rem;
+           margin-bottom:0.8rem;">
+Peer Reviewed Articles
+</h2>
+
+<p style="margin:0; line-height:1.9;">
+
+Almeida, F. M. de S., & Spolador, H. F. S. (2024). 
+<em>Determinants of corn total factor productivity in Brazil: A stochastic frontier analysis for the period from 1995 to 2017</em>. 
+Revista de Economia e Sociologia Rural, 62, e287305. 
+<a href="https://doi.org/10.1590/1806-9479.2023.287305"
+   target="_blank"
+   style="text-decoration:none; color:#050505;">
+[DOI]
+</a>
+<br>
+
+Abdoulaye, A. M., Almeida, F. M. de S., Ervilha, G. T., & Lima, J. E. (2022). 
+<em>Eficiência técnica das instituições de microfinanças na União Econômica e Monetária do Oeste Africano (UEMOA)</em>. 
+Africana Studia, 38, 21–37. 
+<a href="https://ojs.letras.up.pt/index.php/AfricanaStudia/article/view/13354/12059"
+   target="_blank"
+   style="text-decoration:none; color:#050505;">
+[Link]
+</a>
+<br>
+
+Almeida, F. M. de S., Gomes, A. P., & de Freitas, A. F. (2021). 
+<em>Social networks and efficiency in dairy farming: The case of the Program for the Development of Dairy Farming in Minas Gerais, Brazil</em>. 
+Livestock Science, 244, 104401. 
+<a href="https://doi.org/10.1016/j.livsci.2021.104401"
+   target="_blank"
+   style="text-decoration:none; color:#050505;">
+[DOI]
+</a>
+<br>
+
+Simões, A. R. P., Bueno, N. P., Almeida, F. M. de S., Nicholson, C. F., Reis, J. D. D., & Leonel, F. D. P. (2020). 
+<em>Public policies for enhancing diffusion of technology: A network analysis for a dairy farmer community in Minas Gerais, Brazil</em>. 
+Revista Brasileira de Zootecnia, 49, e20190207. 
+<a href="https://doi.org/10.37496/rbz4920190207"
+   target="_blank"
+   style="text-decoration:none; color:#050505;">
+[DOI]
+</a>
+<br>
+
+Almeida, F. M. de S., & Rodrigues, C. T. (2019). 
+<em>Evaluation of the quota policy at the Federal University of Viçosa</em>. 
+Planejamento e Políticas Públicas, 53. 
+<a href="http://www.ipea.gov.br/ppp/index.php/PPP/article/view/1020"
+   target="_blank"
+   style="text-decoration:none; color:#050505;">
+[Link]
+</a>
+<br>
+
+Almeida, F. M. de S., Cassuce, F. C. D. C., & Cirino, J. F. (2016). 
+<em>Academic performance at Universidade Federal de Viçosa</em>. 
+Revista de Ciências Humanas, 16(1), 155–175. 
+<a href="https://periodicos.ufv.br/revistacienciashumanas/article/view/2458"
+   target="_blank"
+   style="text-decoration:none; color:#050505;">
+[Link]
+</a>
+
+</p>
+
+<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
+           border-bottom:2px solid #050505;
+           padding-bottom:0.15rem;
+           margin-bottom:0.8rem;">
+Book Chapters
+</h2>
+
+<p style="margin:0; line-height:1.9;">
+
+Barros, G. S. de C., Castro, N. R., & Almeida, F. M. de S. (2020). 
+<em>Direções do crescimento na agricultura</em>. 
+In J. E. R. Vieira Filho & J. G. Gasques (Eds.), 
+<em>Uma jornada pelos contrastes do Brasil: Cem anos do censo agropecuário</em> (pp. 51–66). 
+Ipea. 
+<a href="https://doi.org/10.38116/978-65-5635-011-0/cap3"
+   target="_blank"
+   style="color:#050505; text-decoration:none;">
+[DOI]
+</a>
+<br>
+
+<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
+           border-bottom:2px solid #050505;
+           padding-bottom:0.15rem;
+           margin-bottom:0.8rem;">
+Extension, Outreach, and Technical Reports
+</h2>
+
+<p style="margin:0; line-height:1.9;">
+  
+Almeida, F. M. de S.; Perrin, R. K.; Fulginiti, L. E.; Dennis, E. (2025) — 
+<em>
+  <a href="https://agecon.unl.edu/expected-carbon-intensity-ci-co-products-fed-beef-cattle-nebraska/"
+     target="_blank"
+     style="text-decoration:none; color:#050505;">
+     Carbon intensity of co-products fed to beef cattle in Nebraska
+  </a>
+</em>.
+<br>
+
+Perrin, R. K.; Almeida, F. M. de S.; Fulginiti, L. E.; Dennis, E. (2025) — 
+<em>
+  <a href="https://agecon.unl.edu/expected-carbon-intensity-ci-nebraska-corn-and-soybeans/"
+     target="_blank"
+     style="text-decoration:none; color:#050505;">
+     Expected carbon intensity of Nebraska corn and soybeans
+  </a>
+</em>.
+<br>
+
+Perrin, R. K.; Fulginiti, L. E.; Almeida, F. M. de S. (2024) — 
+<em>
+  <a href="https://digitalcommons.unl.edu/agecon_cornhusker/1244/"
+     target="_blank"
+     style="text-decoration:none; color:#050505;">
+     Will SAF turbocharge the corn ethanol market?
+  </a>
+</em> 
+Cornhusker Economics.
+<br>
+
+<p style="margin:0; line-height:1.9;">
+
+Quarterly technical reports on Brazilian agribusiness:
+
+<ul style="margin:0.4rem 0 0.8rem 1.2rem;">
+
+  <li>
+    <a href="https://www.cepea.org.br/br/pib-do-agronegocio-brasileiro.aspx" 
+       target="_blank" style="text-decoration:none; color:#050505;">
+      GDP
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.cepea.org.br/br/mercado-de-trabalho-do-agronegocio.aspx" 
+       target="_blank" style="text-decoration:none; color:#050505;">
+      Labor Market
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.cepea.org.br/br/analises-ippa.aspx" 
+       target="_blank" style="text-decoration:none; color:#050505;">
+      Producer Price Index
+    </a>
+  </li>
+
+</ul>
+
+</p>
+```
+
+------------------------------------------------------------------------

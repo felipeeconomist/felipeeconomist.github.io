@@ -1,0 +1,185 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+```{=html}
+<!-- Two column hero -->
+<div style="display:flex; align-items:flex-start; gap:2.5rem; flex-wrap:wrap; padding:2rem 0;">
+
+<div style="flex-shrink:0; text-align:center;">
+
+<img src="images/profile1.jpg" alt="Felipe Almeida"
+     style="width:150px; height:150px;
+            border-radius:50%;
+            object-fit:cover;
+            object-position:center;
+            border:2px solid #050505;
+            box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+
+  <!-- Contatos abaixo da imagem -->
+  <div style="margin-top:0.75rem; display:flex; justify-content:center; gap:0.8rem;">
+
+  <!-- Email -->
+  <a href="mailto:falmeida2@huskers.unl.edu" style="color:#050505;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/maildotru.svg" width="20">
+  </a>
+  
+  <!-- ORCID -->
+<a href="https://orcid.org/0000-0002-2112-0322"
+   target="_blank" rel="noopener noreferrer" style="color:#050505;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/orcid.svg" width="20">
+</a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/felipe-miranda-de-souza-almeida-64522599"
+     target="_blank" rel="noopener noreferrer" style="color:#050505;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="20">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/felipeeconomist"
+     target="_blank" rel="noopener noreferrer" style="color:#050505;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="20">
+  </a>
+
+</div>
+
+</div>
+
+  <div style="flex:1; min-width:260px;">
+    <h1 style="font-size:2rem; font-weight:700; color:#050505; margin-bottom:0.2rem;">Felipe Almeida</h1>
+    <p style="font-size:1.05rem; color:#2C3E50; margin:0;">PhD Candidate, Agricultural Economics</p>
+    <p style="font-size:1rem; color:#D00000; margin-top:0.1rem;">University of Nebraska–Lincoln</p>
+
+    <p style="margin-top:1rem; line-height:1.8; color:#2C3E50;">
+I am interested in research in agribusiness, examining both broader topics—such as labor market dynamics and GDP performance—and more specific issues related to crop and livestock production, with a focus on their economic and environmental dimensions. More recently, I have also focused on biofuels, analyzing their economic and environmental implications. In addition, I am currently working on a project on beef sustainability in Nebraska, with an emphasis on carbon intensity and other environmental footprints associated with feed inputs.
+</p>
+
+<div style="margin-top:1.2rem;">
+
+  <div style="font-size:0.85rem; color:#6B7280; margin-bottom:0.4rem;">
+    Research Interests
+  </div>
+
+  <div style="display:flex; flex-wrap:wrap; gap:0.5rem;">
+
+    <span style="background:#F3F4F6; color:#374151; padding:0.35rem 0.75rem;
+                 border-radius:20px; font-size:0.85rem; border:1px solid #E5E7EB;">
+      Agricultural, Livestock, and Environmental Economics
+    </span>
+
+    <span style="background:#F3F4F6; color:#374151; padding:0.35rem 0.75rem;
+                 border-radius:20px; font-size:0.85rem; border:1px solid #E5E7EB;">
+      Production Economics
+    </span>
+
+    <span style="background:#F3F4F6; color:#374151; padding:0.35rem 0.75rem;
+                 border-radius:20px; font-size:0.85rem; border:1px solid #E5E7EB;">
+      Agribusiness
+    </span>
+
+  </div>
+
+</div>
+
+    <div style="display:flex; gap:0.75rem; flex-wrap:wrap; margin-top:1.25rem;">
+    <!--  <a href="research.html" style="background:white; color:#050505; padding:0.5rem 1.25rem; border-radius:6px; text-decoration:none; font-weight:600; font-size:0.9rem; border:2px solid #050505;">Research</a> -->
+      <a href="docs/cv.pdf" style="background:white; color:#050505; padding:0.5rem 1.25rem; border-radius:6px; text-decoration:none; font-weight:600; font-size:0.9rem; border:2px solid #050505;">Download CV</a>
+
+    </div>
+  
+  <!--
+    <div style="display:flex; gap:0.5rem; flex-wrap:wrap; margin-top:1rem;">
+      <span style="background:#F3F0FA; color:#3D2B6B; padding:0.3rem 0.75rem; border-radius:20px; font-size:0.82rem; font-weight:600; border:1px solid #9B8EC4;">Conservation Economics</span>
+      <span style="background:#F3F0FA; color:#3D2B6B; padding:0.3rem 0.75rem; border-radius:20px; font-size:0.82rem; font-weight:600; border:1px solid #9B8EC4;">Spatial Analysis</span>
+      <span style="background:#F3F0FA; color:#3D2B6B; padding:0.3rem 0.75rem; border-radius:20px; font-size:0.82rem; font-weight:600; border:1px solid #9B8EC4;">Dynamic Optimization</span>
+      <span style="background:#F3F0FA; color:#3D2B6B; padding:0.3rem 0.75rem; border-radius:20px; font-size:0.82rem; font-weight:600; border:1px solid #9B8EC4;">Agricultural Policy</span>
+    </div>
+    -->
+    
+  </div>
+</div>
+
+<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700; border-bottom:2px solid #050505; padding-bottom:0.4rem;">
+Upcoming and Recent Events:
+</h2>
+
+<p style="margin:0; line-height:2.2;">
+
+<strong style="color:#050505;">February 2026</strong> — UNL Center for Agricultural Profitability Webinar<br>
+Topic: Estimating What Matters: Carbon Intensity in Corn and Soybean Markets
+</p>
+
+<strong style="color:#050505;">March 2026</strong> — UNL Center for Agricultural Profitability Webinar<br>
+Topic: What’s the Carbon Footprint of Your Feed? New Evidence on Distillers’ Grains and Soybean Meal
+</p>
+
+<strong style="color:#050505;">July 2026</strong> — 2026 AAEA Annual Meeting, Kansas City, Missouri<br>
+Papers:
+<ul style="margin:0.3rem 0 1rem 1.2rem;">
+  <li><em>Eco-Efficiency and Economic–Environmental trade-offs in corn and soybean production in Nebraska (Lightning Session)</em></li>
+  <li><em>Corn ethanol for Sustainable Aviation Fuel (SAF) in the United States: market and welfare effects (Poster)</em></li>
+</ul>
+</p>
+
+
+
+
+<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700; border-bottom:2px solid #050505; padding-bottom:0.4rem;">Projects</h2>
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(220px,1fr)); gap:1rem; margin-top:1rem;">
+
+  <div style="background:#FFFFFF; border:1px solid #E5E7EB; border-top:3px solid #D1D5DB; border-radius:10px; padding:1.5rem; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+    <h3 style="color:#111827; font-size:1rem; margin-top:0;">
+      Gross Domestic Product (GDP) of the Brazilian agribusiness sector
+    </h3>
+    <p style="font-size:0.92rem; color:#6B7280; margin:0; line-height:1.6;">
+      In progress.
+    </p>
+  </div>
+
+  <div style="background:#FFFFFF; border:1px solid #E5E7EB; border-top:3px solid #D1D5DB; border-radius:10px; padding:1.5rem; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+    <h3 style="color:#111827; font-size:1rem; margin-top:0;">
+      Brazilian agribusiness labor market
+    </h3>
+    <p style="font-size:0.92rem; color:#6B7280; margin:0; line-height:1.6;">
+      In progress.
+    </p>
+  </div>
+
+  <div style="background:#FFFFFF; border:1px solid #E5E7EB; border-top:3px solid #D1D5DB; border-radius:10px; padding:1.5rem; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+    <h3 style="color:#111827; font-size:1rem; margin-top:0;">
+      Carbon Intensity (CI) of feedstuffs in Nebraska
+    </h3>
+    <p style="font-size:0.92rem; color:#6B7280; margin:0; line-height:1.6;">
+      In progress.
+    </p>
+  </div>
+
+  <div style="background:#FFFFFF; border:1px solid #E5E7EB; border-top:3px solid #D1D5DB; border-radius:10px; padding:1.5rem; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+    <h3 style="color:#111827; font-size:1rem; margin-top:0;">
+      Producer Price Index for the agricultural sector in Brazil
+    </h3>
+    <p style="font-size:0.92rem; color:#6B7280; margin:0; line-height:1.6;">
+      In progress.
+    </p>
+  </div>
+
+</div>
+
+<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+
+
+<script src="https://unpkg.com/lucide@latest"></script>
+<script>
+  lucide.createIcons();
+</script>
+```
+
+------------------------------------------------------------------------

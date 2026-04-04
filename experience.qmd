@@ -1,0 +1,97 @@
+---
+title: "Teaching and Professional Experience"
+page-layout: full
+toc: false
+---
+
+```{=html}
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
+           border-bottom:2px solid #050505;
+           padding-bottom:0.15rem;
+           margin-bottom:0.8rem;">
+Teaching Experience
+</h2>
+
+<div style="margin:0; line-height:1.8;">
+
+  <div style="margin-bottom:1rem;">
+    <strong>Aug 2025 – Dec 2026</strong> — Co-Instructor, University of Nebraska–Lincoln
+    <ul style="margin:0.3rem 0 0.8rem 1.2rem;">
+      <li>Co-instructor for <em>ENSC 230 – Energy and the Environment: Economics and Policy</em>.</li>
+      <li>Delivered lectures on selected topics and provided academic support to students.</li>
+      <li>Designed problem sets and quizzes and held regular office hours.</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom:1rem;">
+    <strong>Mar 2018 – Aug 2023</strong> — Advisor, Pecege Institute (University of São Paulo)
+    <ul style="margin:0.3rem 0 0.8rem 1.2rem;">
+      <li>Advised MBA students in Project Management on thesis development.</li>
+      <li>Guided projects on cost analysis, risk management, and economic feasibility.</li>
+      <li>Supervised over 200 students.</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom:1rem;">
+    <strong>Mar 2019 – Dec 2019</strong> — Teaching Assistant, University of São Paulo
+    <ul style="margin:0.3rem 0 0.8rem 1.2rem;">
+      <li>Supported undergraduate instruction in <em>Introduction to Economics</em> (B.Sc. in Agronomy).</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom:1rem;">
+    <strong>Mar 2013 – Jul 2017</strong> — Teaching Assistant, Federal University of Viçosa
+    <ul style="margin:0.3rem 0 0.8rem 1.2rem;">
+      <li>Assisted in Microeconomic Theory (MSc), Mathematical Economics, and Econometrics.</li>
+      <li>Supported both undergraduate and graduate instruction.</li>
+    </ul>
+  </div>
+
+</div>
+
+<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
+           border-bottom:2px solid #050505;
+           padding-bottom:0.15rem;
+           margin-bottom:0.8rem;">
+Professional Experience
+</h2>
+
+<div style="margin:0; line-height:1.8;">
+
+  <div style="margin-bottom:1rem;">
+    <strong>Sep 2019 – Aug 2023</strong> — Researcher, CEPEA — University of São Paulo
+    <ul style="margin:0.3rem 0 0.8rem 1.2rem;">
+      <li>Led GDP and labor market analysis for Brazilian agribusiness.</li>
+      <li>Coordinated data collection and produced quarterly analytical reports.</li>
+      <li>Contributed to Producer Price Index estimation and sectoral price analysis.</li>
+    </ul>
+  </div>
+
+  <div style="margin-bottom:1rem;">
+    <strong>Mar 2018 – Aug 2023</strong> — Associate Professional, Pecege Institute — University of São Paulo
+    <ul style="margin:0.3rem 0 0.8rem 1.2rem;">
+      <li>Provided applied economic and financial consulting for MBA projects.</li>
+      <li>Produced technical and feasibility reports.</li>
+    </ul>
+  </div>
+
+</div>
+
+<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
+           border-bottom:2px solid #050505;
+           padding-bottom:0.15rem;
+           margin-bottom:0.8rem;">
+Technical Skills
+</h2>
+
+<p style="margin-top:0.8rem; line-height:1.8;">
+<strong>Programming:</strong> R, Python, Stata
+</p>
+```
+
+------------------------------------------------------------------------

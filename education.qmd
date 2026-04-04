@@ -1,0 +1,106 @@
+---
+title: "Education"
+page-layout: full
+toc: false
+---
+
+```{=html}
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
+           border-bottom:2px solid #050505;
+           padding-bottom:0.15rem;
+           margin-bottom:0.8rem;">
+Education
+</h2>
+
+<div style="margin:0; line-height:1.8;">
+
+  <div style="margin-bottom:1.2rem;">
+    <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+      <strong>University of Nebraska–Lincoln</strong>
+      <span style="color:#6B7280;">Aug 2023 – Present</span>
+    </div>
+    <div style="color:#374151;">Ph.D. in Agricultural Economics</div>
+  </div>
+
+  <div style="margin-bottom:1.2rem;">
+    <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+      <strong>University of São Paulo</strong>
+      <span style="color:#6B7280;">Feb 2018 – Sept 2023</span>
+    </div>
+    <div style="color:#374151;">Ph.D. in Applied Economics</div>
+    <div style="color:#6B7280; font-size:0.9rem;">
+      Academic visit: University of Nebraska–Lincoln (2021–2022)
+    </div>
+  </div>
+
+  <div style="margin-bottom:1.2rem;">
+    <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+      <strong>Pecege Institute (University of São Paulo)</strong>
+      <span style="color:#6B7280;">Jun 2022 – Aug 2024</span>
+    </div>
+    <div style="color:#374151;">MBA in Data Science and Analytics</div>
+  </div>
+
+  <div style="margin-bottom:1.2rem;">
+    <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+      <strong>Pecege Institute (University of São Paulo)</strong>
+      <span style="color:#6B7280;">Jun 2019 – Aug 2021</span>
+    </div>
+    <div style="color:#374151;">MBA in Agribusiness</div>
+  </div>
+
+  <div style="margin-bottom:1.2rem;">
+    <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+      <strong>Federal University of Viçosa</strong>
+      <span style="color:#6B7280;">Aug 2015 – Dec 2017</span>
+    </div>
+    <div style="color:#374151;">M.Sc. in Economics</div>
+  </div>
+
+  <div style="margin-bottom:1.2rem;">
+    <div style="display:flex; justify-content:space-between; flex-wrap:wrap;">
+      <strong>Federal University of Viçosa</strong>
+      <span style="color:#6B7280;">Mar 2011 – Jul 2015</span>
+    </div>
+    <div style="color:#374151;">B.A. in Economics</div>
+    <div style="color:#6B7280; font-size:0.9rem;">
+      Exchange program: University of Lleida, Spain (Fall 2014)
+    </div>
+  </div>
+
+</div>
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
+           border-bottom:2px solid #050505;
+           padding-bottom:0.15rem;
+           margin-bottom:0.8rem;">
+Scholarships, Honors, and Awards
+</h2>
+
+<div style="margin:0; line-height:1.8;">
+
+  <div style="display:flex; justify-content:space-between;">
+    <span>Robert Sather Memorial Scholarship</span>
+    <span style="color:#6B7280;">2026</span>
+  </div>
+
+  <div style="display:flex; justify-content:space-between;">
+    <span>Larrick Student Travel Award</span>
+    <span style="color:#6B7280;">2024</span>
+  </div>
+
+  <div style="display:flex; justify-content:space-between;">
+    <span>CAPES PrInt: Program for Institutional Internationalization</span>
+    <span style="color:#6B7280;">2021</span>
+  </div>
+
+  <div style="display:flex; justify-content:space-between;">
+    <span>Santander Ibero-American Scholarship</span>
+    <span style="color:#6B7280;">2015</span>
+  </div>
+
+</div>
+```
+
+------------------------------------------------------------------------
