@@ -5,5 +5,14 @@
   "cv.pdf.md": {
     "cv.pdf.html": "e5ce79cc",
     "cv.pdf.tex": "9ccbfc6d"
+  },
+  "education.qmd": {
+    "education.html": "59ce3c64"
+  },
+  "experience.qmd": {
+    "experience.html": "7cafe7d2"
+  },
+  "research.qmd": {
+    "research.html": "47fb1f70"
   }
 }
