@@ -140,7 +140,7 @@ Papers:
       Gross Domestic Product (GDP) of the Brazilian agribusiness sector
     </h3>
     <p style="font-size:0.92rem; color:#6B7280; margin:0; line-height:1.6;">
-      In progress.
+      Work in progress (forthcoming).
     </p>
   </div>
 
@@ -149,7 +149,7 @@ Papers:
       Brazilian agribusiness labor market
     </h3>
     <p style="font-size:0.92rem; color:#6B7280; margin:0; line-height:1.6;">
-      In progress.
+     Work in progress (forthcoming).
     </p>
   </div>
 
@@ -158,7 +158,7 @@ Papers:
       Carbon Intensity (CI) of feedstuffs in Nebraska
     </h3>
     <p style="font-size:0.92rem; color:#6B7280; margin:0; line-height:1.6;">
-      In progress.
+      Work in progress (forthcoming).
     </p>
   </div>
 
@@ -167,7 +167,7 @@ Papers:
       Producer Price Index for the agricultural sector in Brazil
     </h3>
     <p style="font-size:0.92rem; color:#6B7280; margin:0; line-height:1.6;">
-      In progress.
+      Work in progress (forthcoming).
     </p>
   </div>
 
