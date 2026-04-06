@@ -10,7 +10,7 @@ toc: false
 
 <div style="flex-shrink:0; text-align:center;">
 
-<img src="images/profile1.png" alt="Felipe Almeida"
+<img src="images/profile2.png" alt="Felipe Almeida"
      style="width:150px;
             height:150px;
             border-radius:50%;
