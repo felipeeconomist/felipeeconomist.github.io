@@ -140,6 +140,15 @@ Papers:
 <h2 style="color:#050505; font-size:1.4rem; font-weight:700; border-bottom:2px solid #050505; padding-bottom:0.4rem;">Projects</h2>
 
 <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(220px,1fr)); gap:1rem; margin-top:1rem;">
+  
+    <div style="background:#FFFFFF; border:1px solid #E5E7EB; border-top:3px solid #D1D5DB; border-radius:10px; padding:1.5rem; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
+    <h3 style="color:#111827; font-size:1rem; margin-top:0;">
+      Carbon Intensity (CI) of feedstuffs in Nebraska
+    </h3>
+    <p style="font-size:0.92rem; color:#6B7280; margin:0; line-height:1.6;">
+      Work in progress (forthcoming).
+    </p>
+  </div>
 
   <div style="background:#FFFFFF; border:1px solid #E5E7EB; border-top:3px solid #D1D5DB; border-radius:10px; padding:1.5rem; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
     <h3 style="color:#111827; font-size:1rem; margin-top:0;">
@@ -156,15 +165,6 @@ Papers:
     </h3>
     <p style="font-size:0.92rem; color:#6B7280; margin:0; line-height:1.6;">
      Work in progress (forthcoming).
-    </p>
-  </div>
-
-  <div style="background:#FFFFFF; border:1px solid #E5E7EB; border-top:3px solid #D1D5DB; border-radius:10px; padding:1.5rem; box-shadow:0 2px 6px rgba(0,0,0,0.05);">
-    <h3 style="color:#111827; font-size:1rem; margin-top:0;">
-      Carbon Intensity (CI) of feedstuffs in Nebraska
-    </h3>
-    <p style="font-size:0.92rem; color:#6B7280; margin:0; line-height:1.6;">
-      Work in progress (forthcoming).
     </p>
   </div>
 
