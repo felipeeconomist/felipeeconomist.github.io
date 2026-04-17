@@ -190,6 +190,40 @@ Quarterly technical reports on Brazilian agribusiness:
            border-bottom:2px solid #050505;
            padding-bottom:0.15rem;
            margin-bottom:0.8rem;">
+Policy Articles and Opinion Pieces
+</h2>
+
+<p style="margin:0; line-height:1.8;">
+
+Almeida, F. M. de S. (2023).
+<em>Mercado de trabalho e pandemia: agronegócio evidencia resiliência frente a crises</em>.
+Opinião Cepea, Center for Advanced Studies on Applied Economics (CEPEA), University of São Paulo.
+<a href="https://www.cepea.org.br/br/opiniao-cepea/mercado-de-trabalho-e-pandemia-agronegocio-evidencia-resiliencia-frente-a-crises.aspx">
+https://www.cepea.org.br/br/opiniao-cepea/mercado-de-trabalho-e-pandemia-agronegocio-evidencia-resiliencia-frente-a-crises.aspx
+</a><br>
+
+Almeida, F. M. de S. (2022).
+<em>O que sabemos sobre a qualidade do trabalho na agropecuária brasileira?</em>.
+Opinião Cepea, Center for Advanced Studies on Applied Economics (CEPEA), University of São Paulo.
+<a href="https://www.cepea.org.br/br/opiniao-cepea/o-que-sabemos-sobre-a-qualidade-do-trabalho-na-agropecuaria-brasileira.aspx">
+https://www.cepea.org.br/br/opiniao-cepea/o-que-sabemos-sobre-a-qualidade-do-trabalho-na-agropecuaria-brasileira.aspx
+</a><br>
+
+Almeida, F. M. de S. (2021).
+<em>A importância da agropecuária para os municípios de Minas Gerais</em>.
+Opinião Cepea, Center for Advanced Studies on Applied Economics (CEPEA), University of São Paulo.
+<a href="https://www.cepea.org.br/br/opiniao-cepea/a-importancia-da-agropecuaria-para-os-municipios-de-minas-gerais.aspx">
+https://www.cepea.org.br/br/opiniao-cepea/a-importancia-da-agropecuaria-para-os-municipios-de-minas-gerais.aspx
+</a>
+
+</p>
+<!-- &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&-->
+<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
+           border-bottom:2px solid #050505;
+           padding-bottom:0.15rem;
+           margin-bottom:0.8rem;">
 Selected Paper and Poster Presentations
 </h2>
 
