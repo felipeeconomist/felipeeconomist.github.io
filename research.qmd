@@ -12,7 +12,7 @@ toc: false
 Work in Progress
 </h2>
 
-<p style="margin:0; line-height:1.8;">
+<p style="margin:0; line-height:1.9;">
 
 Almeida, F. M. de S. (2026).
 <em>Corn ethanol for sustainable aviation fuel (SAF) in the United States: market and welfare effects</em>.<br>
@@ -62,7 +62,7 @@ Almeida, F. M. de S.; Perrin, R.; Fulginiti, L.; Dennis, E. (2026).
 Peer-Reviewed Articles
 </h2>
 
-<p style="margin:0; line-height:1.8;">
+<p style="margin:0; line-height:1.9;">
 
 Perrin, R., Almeida, F. M. de S., Fulginiti, L., & Dennis, E. (2026).
 Expected carbon intensity (CI) for Northern Plains corn and soybean.
@@ -109,7 +109,7 @@ Academic performance at Universidade Federal de Viçosa.
 Book Chapters
 </h2>
 
-<p style="margin:0; line-height:1.8;">
+<p style="margin:0; line-height:1.9;">
 
 Barros, G. S. de C., Castro, N. R., & Almeida, F. M. de S. (2020).
 Direções do crescimento na agricultura.
@@ -131,7 +131,7 @@ https://doi.org/10.38116/978-65-5635-011-0/cap3
 Extension, Outreach, and Technical Reports
 </h2>
 
-<p style="margin:0; line-height:1.8;">
+<p style="margin:0; line-height:1.9;">
 
 Almeida, F. M. de S., Perrin, R. K., Fulginiti, L. E., & Dennis, E. (2025).
 <em>Carbon intensity of co-products fed to beef cattle in Nebraska</em>.
@@ -193,7 +193,7 @@ Quarterly technical reports on Brazilian agribusiness:
 Policy Papers and Op-Eds
 </h2>
 
-<p style="margin:0; line-height:1.8;">
+<p style="margin:0; line-height:1.9;">
 
 Almeida, F. M. de S. (2023).
 <em>A importância da agropecuária para os municípios de Minas Gerais</em>.
@@ -227,7 +227,7 @@ https://www.cepea.org.br/br/opiniao-cepea/mercado-de-trabalho-e-pandemia-agroneg
 Selected Paper and Poster Presentations
 </h2>
 
-<p style="margin:0; line-height:1.8;">
+<p style="margin:0; line-height:1.9;">
 
 Almeida, F. M. de S., Perrin, R., & Fulginiti, L. (2026).
 Eco-efficiency and economic–environmental trade-offs in corn and soybean production in Nebraska.
@@ -280,7 +280,7 @@ Presented at the <em>2024 WAEA Annual Meeting</em> (San Francisco, California, J
 Talks &amp; Webinars
 </h2>
 
-<p style="margin:0; line-height:1.8;">
+<p style="margin:0; line-height:1.9;">
 
 Dennis, E., Almeida, F. M. de S., & Perrin, R. (March 2026).
 What’s the carbon footprint of your feed? New evidence on distillers’ grains and soybean meal.
