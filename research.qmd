@@ -190,7 +190,7 @@ Quarterly technical reports on Brazilian agribusiness:
            border-bottom:2px solid #050505;
            padding-bottom:0.15rem;
            margin-bottom:0.8rem;">
-Policy Articles and Opinion Pieces
+Policy Papers and Op-Eds
 </h2>
 
 <p style="margin:0; line-height:1.8;">
