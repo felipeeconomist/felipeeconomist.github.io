@@ -71,7 +71,7 @@ Expected carbon intensity (CI) for Northern Plains corn and soybean.
 Almeida, F. M. de S., & Spolador, H. F. S. (2024).
 Determinants of corn total factor productivity in Brazil: A stochastic frontier analysis for the period from 1995 to 2017.
 <em>Revista de Economia e Sociologia Rural</em>, 62, e287305.
-<a href="https://doi.org/10.1590/1806-9479.2023.287305">https://doi.org/10.1590/1806-9479.2023.287305</a><br>
+<a href="https://ojs.letras.up.pt/index.php/AfricanaStudia/article/view/13354/12059">https://ojs.letras.up.pt/index.php/AfricanaStudia/article/view/13354/12059</a><br>
 
 Abdoulaye, A. M., Almeida, F. M. de S., Ervilha, G. T., & Lima, J. E. (2022).
 Eficiência técnica das instituições de microfinanças na região da União Econômica e Monetária do Oeste Africano (UEMOA).
