@@ -104,6 +104,183 @@ My research lies in agricultural and applied economics, with a focus on agribusi
 
 <hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
 
+
+<section id="events" class="section section--alt">
+
+<div class="container">
+
+<h2 class="section-title section-title--green">
+  Upcoming and Recent Events:
+</h2>
+
+<div class="events-grid">
+
+<!-- Webinar -->
+<div class="event-card webinar-card">
+
+  <div class="event-date">
+    Feb 2026
+  </div>
+
+  <div class="event-type">
+    Webinar
+  </div>
+
+  <h3 class="event-title">
+    UNL Center for Agricultural Profitability Webinar
+  </h3>
+
+  <div class="event-papers">
+
+    <div class="paper-item">
+
+      <span class="paper-label">
+        Presentation Topic
+      </span>
+
+      <p>
+        Estimating What Matters:
+        Carbon Intensity in Corn and Soybean Markets
+      </p>
+
+    </div>
+
+  </div>
+
+</div>
+
+<!-- Webinar -->
+<div class="event-card webinar-card">
+
+  <div class="event-date">
+    Mar 2026
+  </div>
+
+  <div class="event-type">
+    Webinar
+  </div>
+
+  <h3 class="event-title">
+    UNL Center for Agricultural Profitability Webinar
+  </h3>
+
+  <div class="event-papers">
+
+    <div class="paper-item">
+
+      <span class="paper-label">
+        Presentation Topic
+      </span>
+
+      <p>
+        What’s the Carbon Footprint of Your Feed?
+        New Evidence on Distillers’ Grains and Soybean Meal
+      </p>
+
+    </div>
+
+  </div>
+
+</div>
+
+  <!-- Conference -->
+  <div class="event-card conference-card">
+
+    <div class="event-date">
+      Jun 2026
+    </div>
+
+    <div class="event-type">
+      Conference
+    </div>
+
+    <h3 class="event-title">
+      2026 WAEA Annual Meeting
+    </h3>
+
+    <p class="event-location">
+      Flagstaff, Arizona
+    </p>
+
+<div class="event-papers">
+
+  <div class="paper-item single-paper">
+
+    <span class="paper-label">
+      Accepted Presentation
+    </span>
+
+    <p>
+      Economic and environmental trade-offs
+      in Nebraska corn and soybean production
+    </p>
+
+  </div>
+
+</div>
+
+  </div>
+
+  <!-- Conference -->
+  <div class="event-card conference-card">
+
+    <div class="event-date">
+      Jul 2026
+    </div>
+
+    <div class="event-type">
+      Conference
+    </div>
+
+    <h3 class="event-title">
+      2026 AAEA Annual Meeting
+    </h3>
+
+    <p class="event-location">
+      Kansas City, Missouri
+    </p>
+
+<div class="event-papers">
+
+  <div class="paper-item unified-paper">
+
+    <span class="paper-label">
+      Lightning Session
+    </span>
+
+    <p>
+      Eco-Efficiency and Economic–Environmental
+      trade-offs in corn and soybean production
+      in Nebraska
+    </p>
+
+  </div>
+
+  <div class="paper-item unified-paper">
+
+    <span class="paper-label">
+      Poster Presentation
+    </span>
+
+    <p>
+      Corn ethanol for Sustainable Aviation Fuel (SAF)
+      in the United States:
+      market and welfare effects
+    </p>
+
+  </div>
+
+</div>
+
+  </div>
+
+</div>
+
+</div>
+</section>
+
+
+<!--
 <h2 style="color:#050505; font-size:1.4rem; font-weight:700; border-bottom:2px solid #050505; padding-bottom:0.4rem;">
 Upcoming and Recent Events:
 </h2>
@@ -131,7 +308,7 @@ Papers:
   <li><em>Corn ethanol for Sustainable Aviation Fuel (SAF) in the United States: market and welfare effects (Poster)</em></li>
 </ul>
 </p>
-
+-->
 
 
 

@@ -1,0 +1,210 @@
+/* ─── Events Cards Compact ───────────────────────── */
+
+#events.section {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.events-grid {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.event-card {
+  border-radius: 10px;
+
+  padding: 0.8rem 0.95rem;
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.event-card:hover {
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 6px 18px rgba(0,0,0,0.05);
+}
+
+/* ─── Webinar Cards ───────────────────────── */
+
+.webinar-card {
+  background: #f4f7ff;
+  border: 1px solid #dbe5ff;
+}
+
+/* ─── Conference Cards ───────────────────────── */
+
+.conference-card {
+  background: #f3faf5;
+  border: 1px solid #d7ecdd;
+}
+
+/* Remove automatic margins from Quarto/Bootstrap */
+
+.event-card h3,
+.event-card p,
+.event-card ul {
+  margin-top: 0;
+}
+
+/* ─── Date ───────────────────────── */
+
+.event-date {
+  font-family: var(--font-head);
+
+  font-size: 0.72rem;
+  font-weight: 700;
+
+  margin-bottom: 0.25rem;
+
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* Webinar date */
+
+.webinar-card .event-date {
+  color: #3157c8;
+}
+
+/* Conference date */
+
+.conference-card .event-date {
+  color: #247a43;
+}
+
+/* ─── Event Type Pill ───────────────────────── */
+
+.event-type {
+  display: inline-block;
+
+  margin-bottom: 0.45rem;
+  padding: 0.18rem 0.55rem;
+
+  border-radius: 999px;
+
+  font-family: var(--font-head);
+  font-size: 0.56rem;
+  font-weight: 700;
+
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* Webinar pill */
+
+.webinar-card .event-type {
+  background: #dfe8ff;
+  color: #3157c8;
+}
+
+/* Conference pill */
+
+.conference-card .event-type {
+  background: #daf0df;
+  color: #247a43;
+}
+
+/* ─── Title ───────────────────────── */
+
+.event-title {
+  font-family: var(--font-head);
+
+  font-size: 1rem;
+  font-weight: 700;
+
+  color: var(--ink);
+
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+
+  line-height: 1.3;
+}
+
+/* ─── Text ───────────────────────── */
+
+.event-text,
+.event-location {
+  color: var(--ink-2);
+
+  line-height: 1.45;
+
+  font-size: 0.9rem;
+
+  margin-bottom: 0;
+}
+
+.event-location {
+  margin-bottom: 0.45rem;
+}
+
+/* ─── Papers ───────────────────────── */
+
+.event-papers {
+  display: grid;
+  gap: 0.45rem;
+
+  margin-top: 0.55rem;
+}
+
+.paper-item {
+  padding: 0.55rem 0.7rem;
+
+  background: rgba(255,255,255,0.55);
+
+  border-radius: 8px;
+}
+
+.paper-item p {
+  margin: 0;
+
+  font-size: 0.87rem;
+  line-height: 1.42;
+
+  color: var(--ink-2);
+}
+
+/* ─── Paper Labels ───────────────────────── */
+
+.paper-label {
+  display: inline-block;
+
+  margin-bottom: 0.32rem;
+  padding: 0.12rem 0.42rem;
+
+  border-radius: 999px;
+
+  font-size: 0.54rem;
+  font-weight: 700;
+
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* ─── Webinar Paper Blocks ───────────────────────── */
+
+.webinar-card .paper-item {
+  border-left: 3px solid rgba(49,87,200,0.75);
+
+  background: rgba(255,255,255,0.55);
+}
+
+.webinar-card .paper-label {
+  background: rgba(49,87,200,0.08);
+  color: #3157c8;
+}
+
+/* ─── Conference Paper Blocks ───────────────────────── */
+
+.conference-card .paper-item {
+  border-left: 3px solid rgba(36,122,67,0.75);
+
+  background: rgba(255,255,255,0.55);
+}
+
+.conference-card .paper-label {
+  background: rgba(36,122,67,0.08);
+  color: #247a43;
+}
