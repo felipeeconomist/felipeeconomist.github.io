@@ -102,86 +102,90 @@ My research lies in agricultural and applied economics, with a focus on agribusi
   </div>
 </div>
 
+
 <hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
 
+<!--
+<hr style="border:none; border-top:2px solid #E0E0E0; margin:0.8rem 0 0.5rem 0;">
+-->
 
 <section id="events" class="section section--alt">
 
 <div class="container">
 
-<h2 class="section-title section-title--green">
-  Upcoming and Recent Events:
+<h2 style="color:#050505; font-size:1.4rem; font-weight:700; border-bottom:2px solid #050505; padding-bottom:0.4rem;">
+  Upcoming and Recent Events
 </h2>
 
 <div class="events-grid">
 
-<!-- Webinar -->
-<div class="event-card webinar-card">
+  <!-- Webinar -->
+  <div class="event-card webinar-card">
 
-  <div class="event-date">
-    Feb 2026
-  </div>
+    <div class="event-date">
+      Feb 2026
+    </div>
 
-  <div class="event-type">
-    Webinar
-  </div>
+    <div class="event-type">
+      Webinar
+    </div>
 
-  <h3 class="event-title">
-    UNL Center for Agricultural Profitability Webinar
-  </h3>
+    <h3 class="event-title">
+      UNL Center for Agricultural Profitability Webinar
+    </h3>
 
-  <div class="event-papers">
+    <div class="event-papers">
 
-    <div class="paper-item">
+      <div class="paper-item">
 
-      <span class="paper-label">
-        Presentation Topic
-      </span>
+        <span class="paper-label">
+          Presentation Topic
+        </span>
 
-      <p>
-        Estimating What Matters:
-        Carbon Intensity in Corn and Soybean Markets
-      </p>
+        <p>
+          Estimating What Matters:
+          Carbon Intensity in Corn and Soybean Markets
+        </p>
+
+      </div>
 
     </div>
 
   </div>
 
-</div>
+  <!-- Webinar -->
+  <div class="event-card webinar-card">
 
-<!-- Webinar -->
-<div class="event-card webinar-card">
+    <div class="event-date">
+      Mar 2026
+    </div>
 
-  <div class="event-date">
-    Mar 2026
-  </div>
+    <div class="event-type">
+      Webinar
+    </div>
 
-  <div class="event-type">
-    Webinar
-  </div>
+    <h3 class="event-title">
+      UNL Center for Agricultural Profitability Webinar
+    </h3>
 
-  <h3 class="event-title">
-    UNL Center for Agricultural Profitability Webinar
-  </h3>
+    <div class="event-papers">
 
-  <div class="event-papers">
+      <div class="paper-item">
 
-    <div class="paper-item">
+        <span class="paper-label">
+          Presentation Topic
+        </span>
 
-      <span class="paper-label">
-        Presentation Topic
-      </span>
+        <p>
+          What’s the Carbon Footprint of Your Feed?
+          New Evidence on Distillers’ Grains and Soybean Meal
+        </p>
 
-      <p>
-        What’s the Carbon Footprint of Your Feed?
-        New Evidence on Distillers’ Grains and Soybean Meal
-      </p>
+      </div>
 
     </div>
 
   </div>
-
-</div>
 
   <!-- Conference -->
   <div class="event-card conference-card">
@@ -202,22 +206,22 @@ My research lies in agricultural and applied economics, with a focus on agribusi
       Flagstaff, Arizona
     </p>
 
-<div class="event-papers">
+    <div class="event-papers">
 
-  <div class="paper-item single-paper">
+      <div class="paper-item">
 
-    <span class="paper-label">
-      Accepted Presentation
-    </span>
+        <span class="paper-label">
+          Accepted Presentation
+        </span>
 
-    <p>
-      Economic and environmental trade-offs
-      in Nebraska corn and soybean production
-    </p>
+        <p>
+          Economic and environmental trade-offs
+          in Nebraska corn and soybean production
+        </p>
 
-  </div>
+      </div>
 
-</div>
+    </div>
 
   </div>
 
@@ -240,37 +244,37 @@ My research lies in agricultural and applied economics, with a focus on agribusi
       Kansas City, Missouri
     </p>
 
-<div class="event-papers">
+    <div class="event-papers">
 
-  <div class="paper-item unified-paper">
+      <div class="paper-item">
 
-    <span class="paper-label">
-      Lightning Session
-    </span>
+        <span class="paper-label">
+          Lightning Session
+        </span>
 
-    <p>
-      Eco-Efficiency and Economic–Environmental
-      trade-offs in corn and soybean production
-      in Nebraska
-    </p>
+        <p>
+          Eco-Efficiency and Economic–Environmental
+          trade-offs in corn and soybean production
+          in Nebraska
+        </p>
 
-  </div>
+      </div>
 
-  <div class="paper-item unified-paper">
+      <div class="paper-item">
 
-    <span class="paper-label">
-      Poster Presentation
-    </span>
+        <span class="paper-label">
+          Poster Presentation
+        </span>
 
-    <p>
-      Corn ethanol for Sustainable Aviation Fuel (SAF)
-      in the United States:
-      market and welfare effects
-    </p>
+        <p>
+          Corn ethanol for Sustainable Aviation Fuel (SAF)
+          in the United States:
+          market and welfare effects
+        </p>
 
-  </div>
+      </div>
 
-</div>
+    </div>
 
   </div>
 

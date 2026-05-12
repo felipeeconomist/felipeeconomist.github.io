@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Felipe Almeida"
+  title: ""
   navbar:
   #ccepts right/left/center; you can also place items individually on the left, right, and center
     right: 
