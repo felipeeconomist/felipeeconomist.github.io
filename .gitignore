@@ -1,7 +1,28 @@
-.Rproj.user
+# RStudio
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
 
-/.quarto/
-.positai
+# Quarto
+.quarto/
+
+# Posit
+.positai/
+
+# macOS
+.DS_Store
+
+# Cache
+*_cache/
+.cache/
+
+# Logs
+*.log
+
+# Temporary
+tmp/
+temp/
+
+# VS Code
+.vscode/
