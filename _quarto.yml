@@ -1,9 +1,11 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - cv.pdf
 
 website:
-  title: ""
+  title: "Felipe Almeida"
   navbar:
   #ccepts right/left/center; you can also place items individually on the left, right, and center
     right: 

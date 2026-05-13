@@ -6,10 +6,7 @@ toc: false
 
 ```{=html}
 
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title">
 Education
 </h2>
 
@@ -163,12 +160,9 @@ Education
 
 </div>
 
-<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+<hr class="section-rule">
 
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title">
 Scholarships, Honors, and Awards
 </h2>
 

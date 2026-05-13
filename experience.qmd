@@ -6,10 +6,7 @@ toc: false
 
 ```{=html}
 
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title">
 Teaching Experience
 </h2>
 
@@ -161,11 +158,7 @@ Teaching Experience
 
 <!-- ====================================================== -->
 
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-top:2rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title site-section">
 Professional Experience
 </h2>
 
@@ -239,16 +232,13 @@ Professional Experience
 
 </div>
 
-<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+<hr class="section-rule">
 
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title">
 Technical Skills
 </h2>
 
-<p style="margin-top:0.8rem; line-height:1.8;">
+<p class="skills-list">
 <strong>Programming:</strong> R, Python, Stata
 </p>
 ```

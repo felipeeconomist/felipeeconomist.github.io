@@ -5,10 +5,7 @@ toc: false
 ---
 
 ```{=html}
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title">
 Work in Progress
 </h2>
 
@@ -101,12 +98,9 @@ Work in Progress
 
 <!-- &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&-->
 
-<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+<hr class="section-rule">
 
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title">
 Papers Under Review
 </h2>
 
@@ -150,12 +144,9 @@ Papers Under Review
 
 </p>
 <!-- &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&-->
-<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+<hr class="section-rule">
 
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title">
 Peer-Reviewed Articles
 </h2>
 
@@ -328,12 +319,9 @@ Peer-Reviewed Articles
 
 </p>
 <!-- &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&-->
-<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+<hr class="section-rule">
 
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title">
 Book Chapters
 </h2>
 
@@ -373,12 +361,9 @@ Book Chapters
 
 </p>
 <!-- &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&-->
-<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+<hr class="section-rule">
 
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title">
 Extension, Outreach, and Technical Reports
 </h2>
 
@@ -488,12 +473,9 @@ Extension, Outreach, and Technical Reports
 
 </div>
 <!-- &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&-->
-<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+<hr class="section-rule">
 
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title">
 Policy Papers and Op-Eds
 </h2>
 
@@ -573,12 +555,9 @@ Policy Papers and Op-Eds
 </div>
 
 <!-- &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&-->
-<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+<hr class="section-rule">
 
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title">
 Selected Paper and Poster Presentations
 </h2>
 
@@ -802,12 +781,9 @@ Selected Paper and Poster Presentations
 
 </div>
 <!-- &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&-->
-<hr style="border:none; border-top:2px solid #E0E0E0; margin:2rem 0;">
+<hr class="section-rule">
 
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700;
-           border-bottom:2px solid #050505;
-           padding-bottom:0.15rem;
-           margin-bottom:0.8rem;">
+<h2 class="section-title">
 Talks &amp; Webinars
 </h2>
 
