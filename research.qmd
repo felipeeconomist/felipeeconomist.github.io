@@ -137,6 +137,20 @@ Papers Under Review
       </em>.
 
     </p>
+    
+      </div>
+      <div class="research-card">
+
+    <p class="research-ref">
+
+      Carrara, A. F.; Castro, N. R.; Amaral, D. F.;
+      Almeida, F. M. de S.; Alves, L. R. A. (2026).
+      
+      <em>
+        Biodiesel, Soybean Meal, and Asymmetric Feed Price Responses
+      </em>.
+
+    </p>
 
   </div>
 
