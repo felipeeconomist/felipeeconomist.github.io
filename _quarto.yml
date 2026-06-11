@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - cv.pdf
+    - FelipeAlmeida-CV.pdf
 
 website:
   title: "Felipe Almeida"
