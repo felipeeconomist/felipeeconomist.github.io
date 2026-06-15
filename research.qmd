@@ -395,6 +395,49 @@ Extension, Outreach, and Technical Reports
 
     <p class="research-ref">
 
+      Centro de Estudos Avançados em Economia Aplicada (Cepea)
+      e Federação das Indústrias do Estado de São Paulo (FIESP). (2026).
+
+      <em>
+        PIB do agronegócio do estado de São Paulo -- 2024
+      </em>.
+
+      Cepea/Esalq-USP e FIESP.
+
+      <a href="https://www.cepea.org.br/upload/kceditor/files/deagro-pib-2024-24.pdf">
+        Link
+      </a>
+
+    </p>
+
+  </div>
+
+  <div class="research-card">
+
+    <p class="research-ref">
+
+      Centro de Estudos Avançados em Economia Aplicada (Cepea)
+      e Federação das Indústrias do Estado de São Paulo (FIESP). (2026).
+
+      <em>
+        Mercado de trabalho do agronegócio
+        do estado de São Paulo -- 2012--2024
+      </em>.
+
+      Cepea/Esalq-USP e FIESP.
+
+      <a href="https://www.cepea.org.br/upload/kceditor/files/MT%20Agro%20SP%202012-2024.pdf">
+        Link
+      </a>
+
+    </p>
+
+  </div>
+
+  <div class="research-card">
+
+    <p class="research-ref">
+
       Almeida, F. M. de S., Perrin, R. K.,
       Fulginiti, L. E., & Dennis, E. (2025).
       
