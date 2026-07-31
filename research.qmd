@@ -60,39 +60,6 @@ Work in Progress
 
   </div>
 
-  <div class="research-card">
-
-    <p class="research-ref">
-
-      Lobo, G. D.; Rocha Junior, A. B.; Almeida, F. M. de S.;
-      Danelon, A. F.; Almeida, A. N. (2026).
-      
-      <em>
-        Unsafe techniques and agrochemical poisoning:
-        evidence from Brazil
-      </em>.
-
-    </p>
-
-  </div>
-
-  <div class="research-card">
-
-    <p class="research-ref">
-
-      Lobo, G. D.; Almeida, F. M. de S.;
-      Rocha Junior, A. B.; Danelon, A. F.;
-      Almeida, A. N. (2026).
-      
-      <em>
-        Agrochemical poisoning and suicide attempts
-        in rural Brazil: a spatial econometric approach
-      </em>.
-
-    </p>
-
-  </div>
-
 </div>
 </p>
 
@@ -636,7 +603,7 @@ Selected Paper and Poster Presentations
       Eco-efficiency and economic–environmental trade-offs
       in corn and soybean production in Nebraska.
       
-      Paper accepted for presentation at the
+      Presented at the
       
       <em>
         2026 AAEA Annual Meeting
@@ -658,7 +625,7 @@ Selected Paper and Poster Presentations
       Corn ethanol for sustainable aviation fuel (SAF)
       in the United States: Market and welfare effects.
       
-      Paper accepted for presentation at the
+      Presented at the
       
       <em>
         2026 AAEA Annual Meeting
@@ -680,7 +647,7 @@ Selected Paper and Poster Presentations
       Economic and environmental trade-offs
       in Nebraska corn and soybean production.
       
-      Paper accepted for presentation at the
+      Presented at the
       
       <em>
         2026 WAEA Annual Meeting

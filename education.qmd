@@ -167,10 +167,10 @@ Scholarships, Honors, and Awards
 </h2>
 
 <div class="awards-grid">
-  
-   <div class="award-card-min">
+
+  <div class="award-card-min">
     <div class="award-name">
-      J. B. Hassler Ph.D. Research Award
+      Farmers National Fellowship, University of Nebraska-Lincoln
     </div>
 
     <div class="award-year">
@@ -180,7 +180,7 @@ Scholarships, Honors, and Awards
 
   <div class="award-card-min">
     <div class="award-name">
-      Robert Sather Memorial Scholarship
+      J. B. Hassler Ph.D. Research Award, University of Nebraska-Lincoln
     </div>
 
     <div class="award-year">
@@ -190,7 +190,17 @@ Scholarships, Honors, and Awards
 
   <div class="award-card-min">
     <div class="award-name">
-      Larrick Student Travel Award
+      Robert Sather Memorial Scholarship, Renewable Fuels Foundation (RFF)
+    </div>
+
+    <div class="award-year">
+      2026
+    </div>
+  </div>
+
+  <div class="award-card-min">
+    <div class="award-name">
+      Larrick Student Travel Award, University of Nebraska-Lincoln
     </div>
 
     <div class="award-year">
@@ -200,7 +210,7 @@ Scholarships, Honors, and Awards
 
   <div class="award-card-min">
     <div class="award-name">
-      CAPES PrInt: Program for Institutional Internationalization
+      CAPES PrInt: Program for Institutional Internationalization, University of São Paulo, Brazil
     </div>
 
     <div class="award-year">
@@ -210,7 +220,7 @@ Scholarships, Honors, and Awards
 
   <div class="award-card-min">
     <div class="award-name">
-      Santander Ibero-American Scholarship
+      Santander Ibero-American Scholarship, Federal University of Viçosa, Brazil
     </div>
 
     <div class="award-year">
