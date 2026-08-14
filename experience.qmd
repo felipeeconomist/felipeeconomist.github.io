@@ -11,9 +11,48 @@ Teaching Experience
 </h2>
 
 <div class="experience-grid">
-  
-  
-    <!-- Advisor -->
+
+  <!-- Co-Instructor -->
+  <div class="experience-card">
+
+    <div class="experience-top">
+
+      <div>
+        <div class="experience-role">
+          Co-Instructor
+        </div>
+
+        <div class="experience-place">
+          University of Nebraska–Lincoln
+        </div>
+      </div>
+
+      <div class="experience-date">
+        Aug 2026 – Present
+      </div>
+
+    </div>
+
+    <div class="experience-description">
+
+      Serve as a co-instructor for
+      
+      <em>
+        ENSC 230 – Energy and the Environment:
+        Economics and Policy
+      </em>,
+      
+      teaching selected topics and providing
+      academic support to students.
+      Responsibilities include lecturing,
+      designing problem sets and quizzes,
+      and holding regular office hours.
+
+    </div>
+
+  </div>
+
+  <!-- Advisor -->
   <div class="experience-card">
 
     <div class="experience-top">
@@ -61,25 +100,24 @@ successfully defended their thesis projects and earned their MBA degrees.
       </div>
 
       <div class="experience-date">
-        Aug 2026 – Present
+        Aug 2025 – Dec 2025
       </div>
 
     </div>
 
     <div class="experience-description">
 
-      Serve as a co-instructor for
+      Co-instructor for
       
       <em>
         ENSC 230 – Energy and the Environment:
         Economics and Policy
       </em>.
       
-      teaching selected topics and providing
-      academic support to students.
-      Responsibilities include lecturing,
-      designing problem sets and quizzes,
-      and holding regular office hours.
+      Delivered lectures on selected topics,
+      provided academic support to students,
+      designed problem sets and quizzes,
+      and held regular office hours.
 
     </div>
 
