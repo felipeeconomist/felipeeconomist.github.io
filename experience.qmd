@@ -36,12 +36,10 @@ Teaching Experience
 
     <div class="experience-description">
 
-      Advised MBA students in Project Management
-      on thesis development and guided projects
-      related to cost analysis, risk management,
-      and economic feasibility.
-      
-      Supervised over 200 students.
+      Advise students in the MBA in Project Management program, supporting the development of
+their thesis projects. Student research topics include cost management, risk management,
+scheduling, and economic feasibility. Have advised more than 200 students, all of whom
+successfully defended their thesis projects and earned their MBA degrees.
 
     </div>
 
@@ -63,24 +61,25 @@ Teaching Experience
       </div>
 
       <div class="experience-date">
-        Aug 2025 – Dec 2026
+        Aug 2026 – Present
       </div>
 
     </div>
 
     <div class="experience-description">
 
-      Co-instructor for
+      Serve as a co-instructor for
       
       <em>
         ENSC 230 – Energy and the Environment:
         Economics and Policy
       </em>.
       
-      Delivered lectures on selected topics,
-      provided academic support to students,
-      designed problem sets and quizzes,
-      and held regular office hours.
+      teaching selected topics and providing
+      academic support to students.
+      Responsibilities include lecturing,
+      designing problem sets and quizzes,
+      and holding regular office hours.
 
     </div>
 
