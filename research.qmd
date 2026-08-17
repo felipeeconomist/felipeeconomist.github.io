@@ -119,23 +119,7 @@ Peer-Reviewed Articles
 
 <div class="research-grid">
 
-  <div class="research-card">
 
-    <p class="research-ref">
-
-      Castro, N. R., Fachinelli, A. L.,
-      Almeida, F. M. de S., and Silva, A. F. (2026).
-      
-      Agribusiness in São Paulo:
-      Characterization and GDP Performance between 2010 and 2023.
-      Accepted for publication in
-      <em>
-        Revista de Economia e Sociologia Rural
-      </em>.
-
-    </p>
-
-  </div>
 
   <div class="research-card">
 
@@ -154,6 +138,28 @@ Peer-Reviewed Articles
       12, e70126.
       
        <a href="https://doi.org/10.1002/cft2.70126">
+        Link
+      </a>
+
+    </p>
+
+  </div>
+  
+    <div class="research-card">
+
+    <p class="research-ref">
+
+      Castro, N. R., Fachinelli, A. L.,
+      Almeida, F. M. de S., and Silva, A. F. (2026).
+      
+      Agribusiness in São Paulo:
+      Characterization and GDP Performance between 2010 and 2023.
+      <em>
+        Revista de Economia e Sociologia Rural
+      </em>,
+      64, e298583.
+      
+      <a href="https://doi.org/10.1590/1806-9479.2026.298583">
         Link
       </a>
 
@@ -366,7 +372,7 @@ Extension, Outreach, and Technical Reports
       e Federação das Indústrias do Estado de São Paulo (FIESP). (2026).
 
       <em>
-        PIB do agronegócio do estado de São Paulo -- 2024
+        PIB do agronegócio do estado de São Paulo - 2024
       </em>.
 
       Cepea/Esalq-USP e FIESP.
@@ -388,7 +394,7 @@ Extension, Outreach, and Technical Reports
 
       <em>
         Mercado de trabalho do agronegócio
-        do estado de São Paulo -- 2012--2024
+        do estado de São Paulo - 2012-2024
       </em>.
 
       Cepea/Esalq-USP e FIESP.
