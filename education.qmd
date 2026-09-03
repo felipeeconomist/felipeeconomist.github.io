@@ -57,6 +57,13 @@ Education
     </div>
 
     <div class="edu-note">
+      Dissertation title:
+      <a href="https://doi.org/10.11606/T.11.2023.tde-07122023-113539">
+        Total factor productivity decomposition of corn production in Brazil, 1995/96 to 2017
+      </a>
+    </div>
+
+    <div class="edu-note">
       Academic visit: University of Nebraska–Lincoln (2021–2022)
     </div>
 
@@ -129,6 +136,14 @@ Education
       Viçosa, Minas Gerais, Brazil
     </div>
 
+    <div class="edu-note">
+      Thesis title:
+      <a href="https://locus.ufv.br/items/7cc8ccec-41df-4ef1-ab6a-627b83b16f5d">
+        Social networks and efficiency in dairy farming:
+        the case of PDPL in Minas Gerais
+      </a>
+    </div>
+
   </div>
 
   <!-- BA -->
@@ -150,6 +165,11 @@ Education
 
     <div class="edu-location">
       Viçosa, Minas Gerais, Brazil
+    </div>
+
+    <div class="edu-note">
+      Final paper title:
+      Identifying Warning Signs of Economic Crises in Brazil Using Network Theory
     </div>
 
     <div class="edu-note">
