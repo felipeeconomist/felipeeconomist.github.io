@@ -28,6 +28,8 @@ Work in Progress
 
     </p>
 
+    <span class="research-tag">Dissertation chapter</span>
+
   </div>
 
   <div class="research-card">
@@ -42,6 +44,8 @@ Work in Progress
       </em>.
 
     </p>
+
+    <span class="research-tag">Dissertation chapter</span>
 
   </div>
 

@@ -657,6 +657,22 @@ a {
   text-decoration: underline;
 }
 
+.research-tag {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.18rem 0.6rem;
+
+  border: 1px solid var(--border);
+  border-radius: 999px;
+
+  background: var(--surface-soft);
+  color: var(--ink-2);
+
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
 /* ─── Research Subtitle ───────────────────────── */
 
 .research-subtitle {
