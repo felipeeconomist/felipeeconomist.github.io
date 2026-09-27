@@ -194,8 +194,9 @@ successfully defended their thesis projects and earned their MBA degrees.
 </div>
 
 <!-- ====================================================== -->
+<hr class="section-rule">
 
-<h2 class="section-title site-section">
+<h2 class="section-title">
 Professional Experience
 </h2>
 
@@ -259,9 +260,7 @@ Professional Experience
 
     <div class="experience-description">
 
-      Provided applied economic and financial consulting
-      for MBA projects and produced technical
-      and feasibility reports.
+      Supervise MBA capstone projects, and author and review technical reports on economic and financial feasibility analyses.
 
     </div>
 
