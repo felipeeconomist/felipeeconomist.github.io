@@ -113,8 +113,8 @@ Peer-Reviewed Articles
 
     <p class="research-ref">
 
-      Almeida, F. M. de S.; Perrin, R.;
-      Fulginiti, L.; Dennis, E. (2026).
+      Almeida, F. M. de S., Perrin, R.,
+      Fulginiti, L.,& Dennis, E. (2026).
       
       The carbon intensity (CI) of co-products
       fed to beef cattle in the Northern Plains.
@@ -123,7 +123,7 @@ Peer-Reviewed Articles
         Translational Animal Science (TAS)
        </em>,
       
-      txag137.
+      10, txag137.
       
        <a href="https://doi.org/10.1093/tas/txag137">
         Link
@@ -532,6 +532,27 @@ Policy Papers and Op-Eds
 <p style="margin:0; line-height:1.9;">
 
 <div class="research-grid">
+   <div class="research-card">
+
+    <p class="research-ref">
+
+      Castro, N. R., Amaral, D. F., Carrara, A. F., Alves, L. R. A.,& Almeida, F. M. de S. (2026).
+      
+      <em>
+        From soybean meal to feed: the effect exists; it’s relevant, but it’s not immediate
+      </em>.
+      
+      Opinião Cepea,
+      Center for Advanced Studies on Applied Economics (Cepea),
+      University of São Paulo.
+      
+      <a href="https://www.cepea.org.br/br/opiniao-cepea/do-farelo-a-racao-o-efeito-existe-e-relevante-mas-nao-e-imediato.aspx">
+        Link
+      </a>
+
+    </p>
+
+  </div>
 
   <div class="research-card">
 
