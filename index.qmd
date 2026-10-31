@@ -2,7 +2,6 @@
 title: "Felipe Almeida"
 description: "Felipe Almeida – PhD candidate in Agricultural Economics at the University of Nebraska–Lincoln."
 page-layout: full
-toc: false
 listing:
   - id: featured-project
     contents: "projects/*.qmd"
@@ -104,29 +103,13 @@ I work in agricultural and applied economics, with a focus on agribusiness and t
       <a href="FelipeAlmeida-CV.pdf" class="button-outline">Download CV</a>
 
     </div>
-  
-  <!--
-    <div style="display:flex; gap:0.5rem; flex-wrap:wrap; margin-top:1rem;">
-      <span style="background:#F3F0FA; color:#3D2B6B; padding:0.3rem 0.75rem; border-radius:20px; font-size:0.82rem; font-weight:600; border:1px solid #9B8EC4;">Conservation Economics</span>
-      <span style="background:#F3F0FA; color:#3D2B6B; padding:0.3rem 0.75rem; border-radius:20px; font-size:0.82rem; font-weight:600; border:1px solid #9B8EC4;">Spatial Analysis</span>
-      <span style="background:#F3F0FA; color:#3D2B6B; padding:0.3rem 0.75rem; border-radius:20px; font-size:0.82rem; font-weight:600; border:1px solid #9B8EC4;">Dynamic Optimization</span>
-      <span style="background:#F3F0FA; color:#3D2B6B; padding:0.3rem 0.75rem; border-radius:20px; font-size:0.82rem; font-weight:600; border:1px solid #9B8EC4;">Agricultural Policy</span>
-    </div>
-    -->
-    
+
   </div>
 </div>
 
-
 <hr class="section-rule">
 
-<!--
-<hr style="border:none; border-top:2px solid #E0E0E0; margin:0.8rem 0 0.5rem 0;">
--->
-
-<section id="events" class="section section--alt">
-
-<div class="container">
+<section id="events">
 
 <h2 class="section-title">
   Recent Events
@@ -226,34 +209,7 @@ I work in agricultural and applied economics, with a focus on agribusiness and t
   </div>
 
 </div>
-
-</div>
 </section>
-
-
-<!--
-<h2 style="color:#050505; font-size:1.4rem; font-weight:700; border-bottom:2px solid #050505; padding-bottom:0.4rem;">
-Upcoming and Recent Events:
-</h2>
-
-<p style="margin:0; line-height:2.2;">
-
-<strong style="color:#050505;">June 2026</strong> — 2026 WAEA Annual Meeting, Flagstaff, Arizona<br>
-Paper:
-<ul style="margin:0.3rem 0 1rem 1.2rem;">
-  <li><em>Economic and environmental trade-offs in Nebraska corn and soybean production</em></li>
-</ul>
-
-<strong style="color:#050505;">July 2026</strong> — 2026 AAEA Annual Meeting, Kansas City, Missouri<br>
-Papers:
-<ul style="margin:0.3rem 0 1rem 1.2rem;">
-  <li><em>Eco-Efficiency and Economic–Environmental trade-offs in corn and soybean production in Nebraska (Lightning Session)</em></li>
-  <li><em>Corn ethanol for Sustainable Aviation Fuel (SAF) in the United States: market and welfare effects (Poster)</em></li>
-</ul>
-</p>
--->
-
-
 
 <hr class="section-rule">
 

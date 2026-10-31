@@ -14,8 +14,7 @@ website:
   twitter-card:
     card-style: summary
   navbar:
-  #ccepts right/left/center; you can also place items individually on the left, right, and center
-    right: 
+    right:
       - href: index.qmd
         text: Home
       - href: education.qmd
@@ -25,21 +24,19 @@ website:
       - href: projects.qmd
         text: Projects
       - href: experience.qmd
-        text: Experience 
+        text: Experience
   page-footer:
-    background: light # or `dark`
+    background: light
     left: © 2026 Felipe Almeida
     right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/felipeeconomist/felipeeconomist.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
-# https://ucsb-meds.github.io/customizing-quarto-websites/#/fa-shortcode
-
 
 format:
   html:
-    theme: cosmo #https://bootswatch.com/
+    theme: cosmo
     css: styles.css
-    toc: true
     page-layout: full
     link-external-newwindow: true
+    html-math-method: plain
 
 editor: visual
 

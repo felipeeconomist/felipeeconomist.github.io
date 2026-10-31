@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 page-layout: full
-toc: false
 listing:
   id: all-projects
   contents: "projects/*.qmd"

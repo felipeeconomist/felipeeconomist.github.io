@@ -1,0 +1,309 @@
+# Entries shown on the Research page (research.qmd), in the order they appear here.
+#
+# Fields
+#   section       wip | review | articles | chapters | reports | opeds | presentations | talks
+#   authors       author list, as it should be printed
+#   year          year, or "Month Year" for talks
+#   title         title (a period is added unless it ends in ? or !)
+#   italic_title  true to print the title in italics (working papers, reports, op-eds)
+#   pre           plain text after the title, before the venue (e.g. "Presented at the")
+#   venue         journal, book, newsletter or conference, printed in italics
+#   post          plain text right after the venue (e.g. ", 10, txag137.")
+#   url           link; the label is DOI, PDF or Article, chosen from the address
+#   label         optional, overrides the automatic link label
+#   tag           optional small label under the entry (e.g. "Dissertation chapter")
+
+# ─── Work in Progress ─────────────────────────────
+
+- section: wip
+  authors: "Almeida, F. M. de S."
+  year: "2026"
+  title: "Corn ethanol for sustainable aviation fuel (SAF) in the United States: market and welfare effects"
+  italic_title: true
+  tag: "Dissertation chapter"
+
+- section: wip
+  authors: "Almeida, F. M. de S."
+  year: "2026"
+  title: "How much does it cost to reduce emissions in Nebraska? Evidence from corn and soybean production"
+  italic_title: true
+  tag: "Dissertation chapter"
+
+- section: wip
+  authors: "Rocha Junior, A. B.; Almeida, F. M. de S."
+  year: "2026"
+  title: "More land, less productivity? The relationship between deforestation and agriculture in Brazil"
+  italic_title: true
+
+# ─── Papers Under Review ──────────────────────────
+
+- section: review
+  authors: "Carrara, A. F.; Castro, N. R.; Amaral, D. F.; Almeida, F. M. de S.; Alves, L. R. A."
+  year: "2026"
+  title: "Biodiesel, Soybean Meal, and Asymmetric Feed Price Responses"
+  italic_title: true
+
+# ─── Peer-Reviewed Articles ───────────────────────
+
+- section: articles
+  authors: "Almeida, F. M. de S., Perrin, R., Fulginiti, L., & Dennis, E."
+  year: "2026"
+  title: "The carbon intensity (CI) of co-products fed to beef cattle in the Northern Plains"
+  venue: "Translational Animal Science (TAS)"
+  post: ", 10, txag137."
+  url: "https://doi.org/10.1093/tas/txag137"
+
+- section: articles
+  authors: "Perrin, R., Almeida, F. M. de S., Fulginiti, L., & Dennis, E."
+  year: "2026"
+  title: "Expected carbon intensity (CI) for Northern Plains corn and soybean"
+  venue: "Crop, Forage & Turfgrass Management"
+  post: ", 12, e70126."
+  url: "https://doi.org/10.1002/cft2.70126"
+
+- section: articles
+  authors: "Castro, N. R., Fachinelli, A. L., Almeida, F. M. de S., & Silva, A. F."
+  year: "2026"
+  title: "Agribusiness in São Paulo: Characterization and GDP Performance between 2010 and 2023"
+  venue: "Revista de Economia e Sociologia Rural"
+  post: ", 64, e298583."
+  url: "https://doi.org/10.1590/1806-9479.2026.298583"
+
+- section: articles
+  authors: "Almeida, F. M. de S., & Spolador, H. F. S."
+  year: "2024"
+  title: "Determinants of corn total factor productivity in Brazil: A stochastic frontier analysis for the period from 1995 to 2017"
+  venue: "Revista de Economia e Sociologia Rural"
+  post: ", 62, e287305."
+  url: "https://doi.org/10.1590/1806-9479.2023.287305"
+
+- section: articles
+  authors: "Abdoulaye, A. M., Almeida, F. M. de S., Ervilha, G. T., & Lima, J. E."
+  year: "2022"
+  title: "Eficiência técnica das instituições de microfinanças na região da União Econômica e Monetária do Oeste Africano (UEMOA)"
+  venue: "Africana Studia"
+  post: ", 38, 21–37."
+  url: "https://ojs.letras.up.pt/index.php/AfricanaStudia/article/view/13354/12059"
+
+- section: articles
+  authors: "Almeida, F. M. de S., Gomes, A. P., & de Freitas, A. F."
+  year: "2021"
+  title: "Social networks and efficiency in dairy farming: The case of the program for the development of dairy farming in Minas Gerais, Brazil"
+  venue: "Livestock Science"
+  post: ", 244, 104401."
+  url: "https://doi.org/10.1016/j.livsci.2021.104401"
+
+- section: articles
+  authors: "Simões, A. R. P., Bueno, N. P., Almeida, F. M. de S., Nicholson, C. F., Reis, J. D. D., & Leonel, F. D. P."
+  year: "2020"
+  title: "Public policies for enhancing diffusion of technology: A network analysis for a dairy farmer community in Minas Gerais, Brazil"
+  venue: "Revista Brasileira de Zootecnia"
+  post: ", 49, e20190207."
+  url: "https://doi.org/10.37496/rbz4920190207"
+
+- section: articles
+  authors: "Almeida, F. M. de S., & Rodrigues, C. T."
+  year: "2019"
+  title: "Evaluation of the quota policy at the Federal University of Viçosa"
+  venue: "Planejamento e Políticas Públicas"
+  post: ", 53."
+  url: "https://www.ipea.gov.br/ppp/index.php/PPP/article/view/868/530"
+
+- section: articles
+  authors: "Almeida, F. M. de S., Cassuce, F. C. D. C., & Cirino, J. F."
+  year: "2016"
+  title: "Academic performance at Universidade Federal de Viçosa"
+  venue: "Revista de Ciências Humanas"
+  post: ", 16(1), 155–175."
+  url: "https://locus.ufv.br/server/api/core/bitstreams/3438fa4b-4085-4b6e-82ba-d3680f4835d6/content"
+
+# ─── Book Chapters ────────────────────────────────
+
+- section: chapters
+  authors: "Barros, G. S. de C., Castro, N. R., & Almeida, F. M. de S."
+  year: "2020"
+  title: "Direções do crescimento na agricultura"
+  pre: "In J. E. R. Vieira Filho & J. G. Gasques (Eds.),"
+  venue: "Uma jornada pelos contrastes do Brasil: Cem anos do censo agropecuário"
+  post: " (pp. 51–66). Ipea."
+  url: "https://doi.org/10.38116/978-65-5635-011-0/cap3"
+
+# ─── Extension, Outreach, and Technical Reports ───
+
+- section: reports
+  authors: "Centro de Estudos Avançados em Economia Aplicada (Cepea) e Federação das Indústrias do Estado de São Paulo (FIESP)"
+  year: "2026"
+  title: "PIB do agronegócio do estado de São Paulo – 2024"
+  italic_title: true
+  pre: "Cepea/Esalq-USP e FIESP."
+  url: "https://www.cepea.org.br/upload/kceditor/files/deagro-pib-2024-24.pdf"
+
+- section: reports
+  authors: "Centro de Estudos Avançados em Economia Aplicada (Cepea) e Federação das Indústrias do Estado de São Paulo (FIESP)"
+  year: "2026"
+  title: "Mercado de trabalho do agronegócio do estado de São Paulo – 2012–2024"
+  italic_title: true
+  pre: "Cepea/Esalq-USP e FIESP."
+  url: "https://www.cepea.org.br/upload/kceditor/files/MT%20Agro%20SP%202012-2024.pdf"
+
+- section: reports
+  authors: "Almeida, F. M. de S., Perrin, R. K., Fulginiti, L. E., & Dennis, E."
+  year: "2025"
+  title: "Expected carbon intensity (CI) of co-products fed to beef cattle in Nebraska"
+  venue: "Cornhusker Economics"
+  post: ", University of Nebraska–Lincoln."
+  url: "https://sassa.unl.edu/expected-carbon-intensity-ci-co-products-fed-beef-cattle-nebraska/"
+
+- section: reports
+  authors: "Perrin, R. K., Almeida, F. M. de S., Fulginiti, L. E., & Dennis, E."
+  year: "2025"
+  title: "Expected carbon intensity (CI) of Nebraska corn and soybeans"
+  venue: "Cornhusker Economics"
+  post: ", University of Nebraska–Lincoln."
+  url: "https://sassa.unl.edu/expected-carbon-intensity-ci-nebraska-corn-and-soybeans/"
+
+- section: reports
+  authors: "Perrin, R. K., Fulginiti, L. E., & Almeida, F. M. de S."
+  year: "2024"
+  title: "Will SAF turbocharge the corn ethanol market?"
+  venue: "Cornhusker Economics"
+  post: ", University of Nebraska–Lincoln."
+  url: "https://digitalcommons.unl.edu/agecon_cornhusker/1244/"
+
+# ─── Policy Papers and Op-Eds ─────────────────────
+
+- section: opeds
+  authors: "Castro, N. R., Amaral, D. F., Carrara, A. F., Alves, L. R. A., & Almeida, F. M. de S."
+  year: "2026"
+  title: "From soybean meal to feed: the effect exists; it’s relevant, but it’s not immediate"
+  italic_title: true
+  venue: "Opinião Cepea"
+  post: ", Center for Advanced Studies on Applied Economics (Cepea), University of São Paulo."
+  url: "https://www.cepea.org.br/br/opiniao-cepea/do-farelo-a-racao-o-efeito-existe-e-relevante-mas-nao-e-imediato.aspx"
+
+- section: opeds
+  authors: "Almeida, F. M. de S."
+  year: "2023"
+  title: "The importance of agriculture for the municipalities of Minas Gerais"
+  italic_title: true
+  venue: "Opinião Cepea"
+  post: ", Center for Advanced Studies on Applied Economics (Cepea), University of São Paulo."
+  url: "https://www.cepea.org.br/br/opiniao-cepea/a-importancia-da-agropecuaria-para-os-municipios-de-minas-gerais.aspx"
+
+- section: opeds
+  authors: "Almeida, F. M. de S."
+  year: "2022"
+  title: "What do we know about the quality of work in Brazilian agriculture?"
+  italic_title: true
+  venue: "Opinião Cepea"
+  post: ", Center for Advanced Studies on Applied Economics (Cepea), University of São Paulo."
+  url: "https://www.cepea.org.br/br/opiniao-cepea/o-que-sabemos-sobre-a-qualidade-do-trabalho-na-agropecuaria-brasileira.aspx"
+
+- section: opeds
+  authors: "Almeida, F. M. de S."
+  year: "2021"
+  title: "Labor market and pandemic: evidence of agribusiness resilience in the face of crises"
+  italic_title: true
+  venue: "Opinião Cepea"
+  post: ", Center for Advanced Studies on Applied Economics (Cepea), University of São Paulo."
+  url: "https://www.cepea.org.br/br/opiniao-cepea/mercado-de-trabalho-e-pandemia-agronegocio-evidencia-resiliencia-frente-a-crises.aspx"
+
+# ─── Selected Paper and Poster Presentations ──────
+
+- section: presentations
+  authors: "Almeida, F. M. de S., Perrin, R., & Fulginiti, L."
+  year: "2026"
+  title: "Eco-efficiency and economic–environmental trade-offs in corn and soybean production in Nebraska"
+  pre: "Lightning session at the"
+  venue: "2026 AAEA Annual Meeting"
+  post: " (Kansas City, Missouri, July 26–28, 2026)."
+
+- section: presentations
+  authors: "Almeida, F. M. de S., Perrin, R., & Fulginiti, L."
+  year: "2026"
+  title: "Corn ethanol for sustainable aviation fuel (SAF) in the United States: Market and welfare effects"
+  pre: "Poster presented at the"
+  venue: "2026 AAEA Annual Meeting"
+  post: " (Kansas City, Missouri, July 26–28, 2026)."
+
+- section: presentations
+  authors: "Almeida, F. M. de S., Perrin, R., & Fulginiti, L."
+  year: "2026"
+  title: "Economic and environmental trade-offs in Nebraska corn and soybean production"
+  pre: "Presented at the"
+  venue: "2026 WAEA Annual Meeting"
+  post: " (Flagstaff, Arizona, June 21–23, 2026)."
+
+- section: presentations
+  authors: "Perrin, R., Almeida, F. M. de S., Fulginiti, L., & Dennis, E."
+  year: "2025"
+  title: "Carbon intensity of Midwest feedstuffs: Corn and soybeans"
+  pre: "Presented at the"
+  venue: "Midwest Extension Farm Management and Outlook Conference"
+  post: " (Omaha, Nebraska, August 14–15, 2025)."
+
+- section: presentations
+  authors: "Perrin, R., Almeida, F. M. de S., Fulginiti, L., & Dennis, E."
+  year: "2025"
+  title: "Carbon intensity of Midwest feedstuffs"
+  pre: "Presented at the"
+  venue: "2025 AAEA & WAEA Joint Annual Meeting"
+  post: " (Denver, Colorado, July 27–29, 2025)."
+
+- section: presentations
+  authors: "Almeida, F. M. de S., & Spolador, H. F. S."
+  year: "2025"
+  title: "Total factor productivity in Brazilian agriculture and conservation practices: A regional study of corn production"
+  pre: "Presented at the"
+  venue: "North American Productivity Workshop"
+  post: " (Arlington, Virginia, June 9–12, 2025)."
+
+- section: presentations
+  authors: "Almeida, F. M. de S."
+  year: "2024"
+  title: "Unlocking agricultural potential: An opportunity cost analysis in Brazil"
+  pre: "Presented at the"
+  venue: "2024 AAEA Annual Meeting"
+  post: " (New Orleans, Louisiana, July 28–30, 2024)."
+
+- section: presentations
+  authors: "Almeida, F. M. de S."
+  year: "2024"
+  title: "Impact of agricultural practices on Brazilian agriculture productivity evolution"
+  pre: "Presented at the"
+  venue: "2024 AAEA Annual Meeting"
+  post: " (New Orleans, Louisiana, July 28–30, 2024)."
+
+- section: presentations
+  authors: "Almeida, F. M. de S."
+  year: "2024"
+  title: "Conservation practices and agricultural productivity: Evidence from Brazil"
+  pre: "Presented at the"
+  venue: "2024 WAEA Annual Meeting"
+  post: " (San Francisco, California, June 23–25, 2024)."
+
+- section: presentations
+  authors: "Almeida, F. M. de S."
+  year: "2024"
+  title: "Balancing growth and sustainability: Assessing the opportunity cost in Brazilian agriculture"
+  pre: "Presented at the"
+  venue: "2024 WAEA Annual Meeting"
+  post: " (San Francisco, California, June 23–25, 2024)."
+
+# ─── Talks & Webinars ─────────────────────────────
+
+- section: talks
+  authors: "Dennis, E., Almeida, F. M. de S., & Perrin, R."
+  year: "March 2026"
+  title: "What’s the carbon footprint of your feed? New evidence on distillers’ grains and soybean meal"
+  pre: "Invited webinar at the"
+  venue: "Center for Agricultural Profitability"
+  post: ", University of Nebraska–Lincoln."
+
+- section: talks
+  authors: "Dennis, E., Almeida, F. M. de S., & Perrin, R."
+  year: "February 2026"
+  title: "Estimating what matters: Carbon intensity in corn and soybean markets"
+  pre: "Invited webinar at the"
+  venue: "Center for Agricultural Profitability"
+  post: ", University of Nebraska–Lincoln."

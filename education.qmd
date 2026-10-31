@@ -1,7 +1,6 @@
 ---
 title: "Education"
 page-layout: full
-toc: false
 ---
 
 ```{=html}

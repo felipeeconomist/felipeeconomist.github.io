@@ -5,3 +5,7 @@
 
 /.quarto/
 .positai
+
+# OneDrive and local tool files
+desktop.ini
+.claude/

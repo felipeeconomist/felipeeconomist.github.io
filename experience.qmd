@@ -1,7 +1,6 @@
 ---
 title: "Experience"
 page-layout: full
-toc: false
 ---
 
 ```{=html}

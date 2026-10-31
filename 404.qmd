@@ -1,0 +1,13 @@
+---
+title: "Page not found"
+---
+
+```{=html}
+<div class="not-found">
+  <h2 class="section-title">Page not found</h2>
+  <p>The page you are looking for does not exist or has moved.</p>
+  <p class="action-list">
+    <a href="/" class="button-outline">Go to the home page</a>
+  </p>
+</div>
+```

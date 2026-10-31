@@ -38,25 +38,11 @@ a {
   font-weight: 600;
 }
 
+/* Content column: at most 1040px wide, centered */
 .page-columns .content {
+  width: 100%;
   max-width: 1040px;
   margin-inline: auto;
-}
-
-.content.column-page > .section-title,
-.content.column-page > .section-rule,
-.content.column-page > .education-grid,
-.content.column-page > .awards-grid,
-.content.column-page > .research-grid,
-.content.column-page > .research-links-grid,
-.content.column-page > .experience-grid,
-.content.column-page > .skills-list,
-.content.column-page > .page-intro,
-.content.column-page > .quarto-listing {
-  grid-column: page-start / page-end;
-  width: min(1040px, calc(100vw - 3rem));
-  margin-left: 50%;
-  transform: translateX(-50%);
 }
 
 .site-section {
@@ -347,6 +333,10 @@ a {
   margin: 0;
 }
 
+.not-found {
+  padding: 2rem 0 3rem;
+}
+
 .back-link {
   display: inline-block;
   margin-top: 2rem;
@@ -357,16 +347,12 @@ a {
 
 /* ─── Events Section ───────────────────────── */
 
-#events.section {
-  padding-top: 0 !important;
+#events {
   padding-bottom: 2rem;
 }
 
 #events .section-title {
-  margin-top: 0 !important;
   margin-bottom: 0.7rem;
-
-  padding-top: 0 !important;
 }
 
 /* ─── Events Grid ───────────────────────── */
@@ -393,13 +379,6 @@ a {
 
   box-shadow:
     0 6px 18px rgba(0,0,0,0.05);
-}
-
-/* ─── Webinar Cards ───────────────────────── */
-
-.webinar-card {
-  background: #f4f7ff;
-  border: 1px solid #dbe5ff;
 }
 
 /* ─── Conference Cards ───────────────────────── */
@@ -431,12 +410,6 @@ a {
   letter-spacing: 0.08em;
 }
 
-/* Webinar Date */
-
-.webinar-card .event-date {
-  color: #3157c8;
-}
-
 /* Conference Date */
 
 .conference-card .event-date {
@@ -459,13 +432,6 @@ a {
 
   text-transform: uppercase;
   letter-spacing: 0.08em;
-}
-
-/* Webinar Pill */
-
-.webinar-card .event-type {
-  background: #dfe8ff;
-  color: #3157c8;
 }
 
 /* Conference Pill */
@@ -491,9 +457,8 @@ a {
   line-height: 1.3;
 }
 
-/* ─── Event Location/Text ───────────────────────── */
+/* ─── Event Location ───────────────────────── */
 
-.event-text,
 .event-location {
   color: var(--ink-2);
 
@@ -549,19 +514,6 @@ a {
 
   letter-spacing: 0.08em;
   text-transform: uppercase;
-}
-
-/* ─── Webinar Paper Blocks ───────────────────────── */
-
-.webinar-card .paper-item {
-  border-left: 3px solid rgba(49,87,200,0.75);
-
-  background: rgba(255,255,255,0.55);
-}
-
-.webinar-card .paper-label {
-  background: rgba(49,87,200,0.08);
-  color: #3157c8;
 }
 
 /* ─── Conference Paper Blocks ───────────────────────── */
@@ -702,6 +654,11 @@ a {
 }
 
 /* ─── Research Cards ───────────────────────── */
+
+/* Listings (Research, Projects) add bottom padding that doubles the gap before the next section */
+.quarto-listing {
+  padding-bottom: 0;
+}
 
 .research-grid {
   display: grid;

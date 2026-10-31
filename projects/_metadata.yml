@@ -1,6 +1,5 @@
 # Shared settings for every project page in this folder
 page-layout: article
-toc: false
 include-in-header:
   text: |
     <style>#title-block-header.quarto-title-block { display: block; }</style>

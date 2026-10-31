@@ -1,0 +1,10 @@
+<div class="list research-grid">
+<% for (const item of items) { %>
+<% const label = item.label || (/doi\.org\//.test(item.url || '') ? 'DOI' : (/\.pdf$|\/bitstreams\//i.test(item.url || '') ? 'PDF' : 'Article')); %>
+<% const titleEnd = /[?!.]$/.test(item.title) ? '' : '.'; %>
+<div class="research-card" <%= metadataAttrs(item) %>>
+<p class="research-ref"><%= item.authors %> (<%= item.year %>). <% if (item.italic_title) { %><em><%= item.title %></em><% } else { %><%= item.title %><% } %><%= titleEnd %><% if (item.pre) { %> <%= item.pre %><% } %><% if (item.venue) { %> <em><%= item.venue %></em><% } %><%= item.post || '' %><% if (item.url) { %> <a href="<%- item.url %>"><%= label %></a><% } %></p>
+<% if (item.tag) { %><div><span class="research-tag"><%= item.tag %></span></div><% } %>
+</div>
+<% } %>
+</div>
