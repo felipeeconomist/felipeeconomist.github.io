@@ -129,12 +129,8 @@ a {
   transform: translateY(-1px);
 }
 
-.social-links img {
-  width: 16px;
-  height: 16px;
-}
-
-.social-links .bi {
+.social-links .bi,
+.social-links .fa-brands {
   font-size: 16px;
   line-height: 1;
 }

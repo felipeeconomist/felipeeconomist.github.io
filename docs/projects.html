@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./images/favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -131,6 +132,14 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Projects – Felipe Almeida">
+<meta property="og:description" content="Felipe Almeida – PhD candidate in Agricultural Economics at the University of Nebraska–Lincoln.">
+<meta property="og:image" content="https://felipeeconomist.github.io/images/profile.jpg">
+<meta property="og:site_name" content="Felipe Almeida">
+<meta name="twitter:title" content="Projects – Felipe Almeida">
+<meta name="twitter:description" content="Felipe Almeida – PhD candidate in Agricultural Economics at the University of Nebraska–Lincoln.">
+<meta name="twitter:image" content="https://felipeeconomist.github.io/images/profile.jpg">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed">
@@ -386,7 +395,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/felipeeconomist\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

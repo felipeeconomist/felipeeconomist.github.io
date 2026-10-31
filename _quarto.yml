@@ -6,6 +6,13 @@ project:
 
 website:
   title: "Felipe Almeida"
+  site-url: https://felipeeconomist.github.io
+  description: "Felipe Almeida – PhD candidate in Agricultural Economics at the University of Nebraska–Lincoln."
+  favicon: images/favicon.png
+  image: images/profile.jpg
+  open-graph: true
+  twitter-card:
+    card-style: summary
   navbar:
   #ccepts right/left/center; you can also place items individually on the left, right, and center
     right: 
