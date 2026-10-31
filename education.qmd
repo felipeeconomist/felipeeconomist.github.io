@@ -33,6 +33,16 @@ Education
       Lincoln, Nebraska, USA
     </div>
 
+    <div class="edu-note">
+      Advisor: Richard K. Perrin
+    </div>
+
+    <div class="edu-note">
+      Dissertation chapters:
+      <a href="projects/abatement-cost.html">How much does it cost to reduce emissions in Nebraska? Evidence from corn and soybean production</a>;
+      <a href="projects/saf-corn-ethanol.html">Corn ethanol for sustainable aviation fuel (SAF) in the United States: market and welfare effects</a>
+    </div>
+
   </div>
 
   <!-- USP -->
@@ -54,6 +64,10 @@ Education
 
     <div class="edu-location">
       Piracicaba, São Paulo, Brazil
+    </div>
+
+    <div class="edu-note">
+      Advisor: Humberto Francisco Silva Spolador
     </div>
 
     <div class="edu-note">
@@ -137,6 +151,10 @@ Education
     </div>
 
     <div class="edu-note">
+      Advisor: Adriano Provezano Gomes · Co-advisor: Alair Ferreira de Freitas
+    </div>
+
+    <div class="edu-note">
       Thesis title:
       <a href="https://locus.ufv.br/items/7cc8ccec-41df-4ef1-ab6a-627b83b16f5d">
         Social networks and efficiency in dairy farming:
@@ -165,6 +183,10 @@ Education
 
     <div class="edu-location">
       Viçosa, Minas Gerais, Brazil
+    </div>
+
+    <div class="edu-note">
+      Advisor: Newton Paulo Bueno
     </div>
 
     <div class="edu-note">

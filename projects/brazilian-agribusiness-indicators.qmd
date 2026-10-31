@@ -1,5 +1,5 @@
 ---
-title: "Brazilian agribusiness indicators (Cepea)"
+title: "Brazilian agribusiness (Cepea)"
 description: "Quarterly GDP, labor market, and producer price indicators for the Brazilian agribusiness sector."
 status: "Ongoing"
 period: "2019–present"

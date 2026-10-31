@@ -2,7 +2,7 @@
 title: "Carbon intensity of Nebraska feedstuffs"
 description: "Life-cycle carbon intensity of corn, soybeans, distillers grains, and soybean meal produced in Nebraska."
 status: "Completed"
-period: "2024–2026"
+period: "2023–2026"
 team: "Felipe Almeida, Richard Perrin, Lilyan Fulginiti, Elliott Dennis"
 order: 3
 home: true
