@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Felipe Almeida"
 page-layout: full
 toc: false
 ---
@@ -15,7 +15,7 @@ toc: false
   <div class="social-links" aria-label="Academic and professional profiles">
 
   <a href="mailto:falmeida2@huskers.unl.edu" aria-label="Email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/maildotru.svg" alt="">
+    <i class="bi bi-envelope" aria-hidden="true"></i>
   </a>
   
 <a href="https://orcid.org/0000-0002-2112-0322"
@@ -99,7 +99,7 @@ My research lies in agricultural and applied economics, with a focus on agribusi
 <div class="container">
 
 <h2 class="section-title">
-  Upcoming and Recent Events
+  Recent Events
 </h2>
 
 <div class="events-grid">
