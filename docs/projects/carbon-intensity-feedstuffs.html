@@ -156,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="about-the-study" class="level2">
 <h2 class="anchored" data-anchor-id="about-the-study">About the study</h2>
-<p>New U.S. clean-fuel tax credits reward biofuels according to their carbon intensity (CI), the greenhouse gas emissions per unit of output over the production life cycle. Because feedstock emissions are a large part of fuel CI, ethanol plants and beef producers may start paying premiums for low-CI grain and feed. This project estimates the CI that Nebraska producers can expect for their crops and for the co-products fed to beef cattle.</p>
+<p>This project estimates the carbon intensity (CI) that Nebraska producers can expect for their crops and for the co-products fed to beef cattle.</p>
 </section>
 <section id="objective" class="level2">
 <h2 class="anchored" data-anchor-id="objective">Objective</h2>
@@ -311,6 +311,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

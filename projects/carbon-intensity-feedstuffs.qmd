@@ -14,7 +14,7 @@ home: true
 
 ## About the study
 
-New U.S. clean-fuel tax credits reward biofuels according to their carbon intensity (CI), the greenhouse gas emissions per unit of output over the production life cycle. Because feedstock emissions are a large part of fuel CI, ethanol plants and beef producers may start paying premiums for low-CI grain and feed. This project estimates the CI that Nebraska producers can expect for their crops and for the co-products fed to beef cattle.
+This project estimates the carbon intensity (CI) that Nebraska producers can expect for their crops and for the co-products fed to beef cattle.
 
 ## Objective
 

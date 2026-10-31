@@ -238,7 +238,7 @@ Market and welfare effects of using U.S. corn ethanol as a feedstock for sustain
 In progress
 </p>
 </div>
-<div class="project-card" data-index="2" data-listing-file-modified-sort="1793475927797" data-listing-reading-time-sort="3" data-listing-word-count-sort="475">
+<div class="project-card" data-index="2" data-listing-file-modified-sort="1793478643696" data-listing-reading-time-sort="3" data-listing-word-count-sort="427">
 <span class="project-status">Completed</span>
 <h3 class="anchored">
 <a href="projects/carbon-intensity-feedstuffs.html">Carbon intensity of Nebraska feedstuffs</a>
@@ -400,6 +400,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
