@@ -1,0 +1,32 @@
+---
+title: "Corn ethanol for sustainable aviation fuel (SAF) in the United States"
+description: "Market and welfare effects of using U.S. corn ethanol as a feedstock for sustainable aviation fuel."
+status: "Dissertation chapter"
+period: "In progress"
+team: "Felipe Almeida, Richard Perrin, Lilyan Fulginiti"
+order: 2
+home: true
+---
+
+::: {.project-meta}
+**Status:** {{< meta status >}} · **Period:** {{< meta period >}} · **Team:** {{< meta team >}}
+:::
+
+## About the study
+
+The long-run outlook for corn ethanol is uncertain as the vehicle fleet shifts toward electric and hybrid cars. Sustainable aviation fuel (SAF), a key component of the U.S. plan to reach net-zero aviation emissions by 2050, could open a new market for ethanol, but its size depends on policy choices such as how the carbon intensity of ethanol-based SAF is measured and whether it qualifies for tax credits.
+
+## Objective
+
+Quantify the market and welfare effects of using corn ethanol to produce sustainable aviation fuel in the United States.
+
+## Main results
+
+Results forthcoming.
+
+## Outputs
+
+- Almeida, F. M. de S., Perrin, R., & Fulginiti, L. (2026). *Corn ethanol for sustainable aviation fuel (SAF) in the United States: Market and welfare effects*. Poster presented at the 2026 AAEA Annual Meeting, Kansas City, Missouri.
+- Perrin, R. K., Fulginiti, L. E., & Almeida, F. M. de S. (2024). [Will SAF turbocharge the corn ethanol market?](https://digitalcommons.unl.edu/agecon_cornhusker/1244/) *Cornhusker Economics*, University of Nebraska–Lincoln.
+
+[← All projects](../projects.qmd){.back-link}

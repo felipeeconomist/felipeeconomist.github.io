@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,7 +70,93 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-featured-project .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-language','listing-page-layout','listing-toc','listing-include-in-header','listing-title','listing-description','listing-status','listing-period','listing-team','listing-order','listing-featured','listing-path','listing-outputHref','listing-author','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-editor","listing-language","listing-page-layout","listing-toc","listing-include-in-header","listing-title","listing-description","listing-status","listing-period","listing-team","listing-order","listing-featured","listing-path","listing-outputHref","listing-author","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-featured-project'] = new List('listing-featured-project', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-home-projects .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-language','listing-page-layout','listing-toc','listing-include-in-header','listing-title','listing-description','listing-status','listing-period','listing-team','listing-order','listing-home','listing-path','listing-outputHref','listing-author','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-editor","listing-language","listing-page-layout","listing-toc","listing-include-in-header","listing-title","listing-description","listing-status","listing-period","listing-team","listing-order","listing-home","listing-path","listing-outputHref","listing-author","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-home-projects'] = new List('listing-home-projects', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -101,6 +189,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./research.html"> 
 <span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./experience.html"> 
@@ -359,49 +451,73 @@ Papers:
 <hr class="section-rule">
 
 <h2 class="section-title anchored">Projects</h2>
-
-<div class="projects-grid">
-  
-    <div class="project-card">
-    <h3 class="anchored">
-      Carbon Intensity (CI) of feedstuffs in Nebraska
-    </h3>
-    <p>
-      Work in progress (forthcoming).
-    </p>
-  </div>
-
-  <div class="project-card">
-    <h3 class="anchored">
-      Gross Domestic Product (GDP) of the Brazilian agribusiness sector
-    </h3>
-    <p>
-      Work in progress (forthcoming).
-    </p>
-  </div>
-
-  <div class="project-card">
-    <h3 class="anchored">
-      Brazilian agribusiness labor market
-    </h3>
-    <p>
-     Work in progress (forthcoming).
-    </p>
-  </div>
-
-  <div class="project-card">
-    <h3 class="anchored">
-      Producer Price Index for the agricultural sector in Brazil
-    </h3>
-    <p>
-      Work in progress (forthcoming).
-    </p>
-  </div>
-
+<div id="listing-featured-project" class="quarto-listing quarto-listing-container-custom">
+<div class="list">
+<div class="featured-card" data-index="0" data-listing-file-modified-sort="1793474753638" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
+<div class="eyebrow">
+Featured paper
 </div>
+<h3 class="anchored">
+<a href="projects/abatement-cost.html">How much does it cost to reduce emissions in Nebraska? Evidence from corn and soybean production</a>
+</h3>
+<p>
+Estimates the cost of reducing greenhouse gas emissions in Nebraska corn and soybean production.
+</p>
+<p><span class="project-status">Dissertation chapter</span></p>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<div id="listing-home-projects" class="quarto-listing quarto-listing-container-custom">
+<div class="list projects-grid">
+<div class="project-card" data-index="0" data-listing-file-modified-sort="1793474759129" data-listing-reading-time-sort="1" data-listing-word-count-sort="172">
+<span class="project-status">Dissertation chapter</span>
+<h3 class="anchored">
+<a href="projects/saf-corn-ethanol.html">Corn ethanol for sustainable aviation fuel (SAF) in the United States</a>
+</h3>
+<p>
+Market and welfare effects of using U.S. corn ethanol as a feedstock for sustainable aviation fuel.
+</p>
+<p class="project-period">
+In progress
+</p>
+</div>
+<div class="project-card" data-index="1" data-listing-file-modified-sort="1793475234471" data-listing-reading-time-sort="3" data-listing-word-count-sort="475">
+<span class="project-status">Completed</span>
+<h3 class="anchored">
+<a href="projects/carbon-intensity-feedstuffs.html">Carbon intensity of Nebraska feedstuffs</a>
+</h3>
+<p>
+Life-cycle carbon intensity of corn, soybeans, distillers grains, and soybean meal produced in Nebraska.
+</p>
+<p class="project-period">
+2024–2026
+</p>
+</div>
+<div class="project-card" data-index="2" data-listing-file-modified-sort="1793474776790" data-listing-reading-time-sort="1" data-listing-word-count-sort="160">
+<span class="project-status">Ongoing</span>
+<h3 class="anchored">
+<a href="projects/brazilian-agribusiness-indicators.html">Brazilian agribusiness indicators (Cepea)</a>
+</h3>
+<p>
+Quarterly GDP, labor market, and producer price indicators for the Brazilian agribusiness sector.
+</p>
+<p class="project-period">
+2019–present
+</p>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<p class="see-all">
+  <a href="projects.html">See all projects →</a>
+</p>
 
-<hr class="section-rule">
-<hr>
+
 
 
 

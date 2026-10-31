@@ -2,6 +2,22 @@
 title: "Felipe Almeida"
 page-layout: full
 toc: false
+listing:
+  - id: featured-project
+    contents: "projects/*.qmd"
+    include:
+      featured: true
+    template: _templates/featured-project.ejs
+    sort-ui: false
+    filter-ui: false
+  - id: home-projects
+    contents: "projects/*.qmd"
+    include:
+      home: true
+    sort: "order"
+    template: _templates/project-cards.ejs
+    sort-ui: false
+    filter-ui: false
 ---
 
 ```{=html}
@@ -228,48 +244,17 @@ Papers:
 <hr class="section-rule">
 
 <h2 class="section-title">Projects</h2>
-
-<div class="projects-grid">
-  
-    <div class="project-card">
-    <h3>
-      Carbon Intensity (CI) of feedstuffs in Nebraska
-    </h3>
-    <p>
-      Work in progress (forthcoming).
-    </p>
-  </div>
-
-  <div class="project-card">
-    <h3>
-      Gross Domestic Product (GDP) of the Brazilian agribusiness sector
-    </h3>
-    <p>
-      Work in progress (forthcoming).
-    </p>
-  </div>
-
-  <div class="project-card">
-    <h3>
-      Brazilian agribusiness labor market
-    </h3>
-    <p>
-     Work in progress (forthcoming).
-    </p>
-  </div>
-
-  <div class="project-card">
-    <h3>
-      Producer Price Index for the agricultural sector in Brazil
-    </h3>
-    <p>
-      Work in progress (forthcoming).
-    </p>
-  </div>
-
-</div>
-
-<hr class="section-rule">
 ```
 
-------------------------------------------------------------------------
+::: {#featured-project}
+:::
+
+::: {#home-projects}
+:::
+
+```{=html}
+<p class="see-all">
+  <a href="projects.html">See all projects →</a>
+</p>
+
+```

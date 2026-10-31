@@ -1,0 +1,26 @@
+---
+title: "Projects"
+page-layout: full
+toc: false
+listing:
+  id: all-projects
+  contents: "projects/*.qmd"
+  sort: "order"
+  template: _templates/project-cards.ejs
+  sort-ui: false
+  filter-ui: false
+---
+
+```{=html}
+<h2 class="section-title">
+Projects
+</h2>
+
+<p class="page-intro">
+Research and applied projects I have led or contributed to.
+Select a project title to read about its objective and main results.
+</p>
+```
+
+::: {#all-projects}
+:::

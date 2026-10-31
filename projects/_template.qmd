@@ -1,0 +1,31 @@
+---
+# HOW TO ADD A PROJECT
+# 1. Copy this file into projects/ with a short name, e.g. projects/my-project.qmd
+#    (files starting with "_" are ignored, so this template never shows up on the site).
+# 2. Fill in the fields below and the sections of the page.
+# 3. Run `quarto render`. The card appears automatically on the Projects page.
+
+title: "Project title"
+description: "One sentence shown on the card."
+status: "Ongoing"          # e.g. Ongoing, Completed, Published, Dissertation chapter
+period: "2025–present"     # optional
+team: "Names of collaborators"   # optional
+order: 99                  # position on the Projects page (lower comes first)
+home: false                # true = also show this card on the home page
+featured: false            # true = show as the "Featured paper" on the home page
+draft: true                # remove this line when the page is ready to go online
+---
+
+::: {.project-meta}
+**Status:** {{< meta status >}} · **Period:** {{< meta period >}} · **Team:** {{< meta team >}}
+:::
+
+## About the study
+
+## Objective
+
+## Main results
+
+## Outputs
+
+[← All projects](../projects.qmd){.back-link}

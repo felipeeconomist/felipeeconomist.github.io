@@ -1,0 +1,31 @@
+---
+title: "Labor shortage in Brazilian agriculture"
+description: "TODO: one sentence about the project."
+status: "TODO"
+period: "TODO"
+team: "TODO"
+order: 7
+draft: true   # remove this line when the content below is filled in
+---
+
+::: {.project-meta}
+**Status:** {{< meta status >}} · **Period:** {{< meta period >}} · **Team:** {{< meta team >}}
+:::
+
+## About the project
+
+TODO
+
+## Objective
+
+TODO
+
+## Main results
+
+TODO
+
+## Outputs
+
+TODO
+
+[← All projects](../projects.qmd){.back-link}

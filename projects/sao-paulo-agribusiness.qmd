@@ -1,0 +1,44 @@
+---
+title: "GDP and labor market of São Paulo agribusiness"
+description: "GDP and employment in the agribusiness sector of the state of São Paulo, in partnership with FIESP."
+status: "Completed"
+period: "2024–2026"
+team: "Cepea (coordination: Geraldo Barros, Nicole Castro, Felipe Almeida), with support from FIESP"
+order: 5
+---
+
+::: {.project-meta}
+**Status:** {{< meta status >}} · **Period:** {{< meta period >}} · **Team:** {{< meta team >}}
+:::
+
+## About the project
+
+São Paulo is Brazil's largest state economy and accounts for about a quarter of Brazilian agribusiness GDP. In partnership with the Federation of Industries of the State of São Paulo (FIESP), Cepea built GDP and labor market indicators for São Paulo agribusiness, applying the same methods used for the national indicators. I co-coordinated the project.
+
+## Objective
+
+Measure the size and performance of São Paulo agribusiness, covering GDP since 2010 and employment from 2012 to 2024, and identify the drivers of its recent evolution.
+
+## Main results
+
+**GDP (2024)**
+
+- Agribusiness GDP reached R\$ 657.6 billion in 2024, up 3.96% from 2023.
+- Growth came from prices (+7.1% in relative prices), while volume fell 2.93%, mainly because of crop losses.
+- São Paulo agribusiness represented 24.0% of Brazilian agribusiness GDP, 18.9% of São Paulo GDP, and 5.6% of Brazil's GDP.
+- By segment: inputs −3.76%, primary production −11.36%, agroindustry +6.89%, and services +7.83%.
+
+**Labor market (2012–2024)**
+
+- Agribusiness employed 4.34 million people in 2024, 17.2% of total employment in the state and 15.3% of Brazilian agribusiness employment.
+- Agribusiness employment grew 4.6% between 2012 and 2024, against 18.9% for the state as a whole, so the sector lost share as an employer.
+- In 2024, 54.7% of workers had a formal employment contract, 75.3% had completed at least high school, and 60.1% were men.
+- Labor productivity fell over the period, because employment grew faster than output.
+
+## Outputs
+
+- Cepea & FIESP (2026). [*PIB do agronegócio do estado de São Paulo – 2024*](https://www.cepea.org.br/upload/kceditor/files/deagro-pib-2024-24.pdf). Cepea/Esalq-USP and FIESP.
+- Cepea & FIESP (2026). [*Mercado de trabalho do agronegócio do estado de São Paulo – 2012–2024*](https://www.cepea.org.br/upload/kceditor/files/MT%20Agro%20SP%202012-2024.pdf). Cepea/Esalq-USP and FIESP.
+- Castro, N. R., Fachinelli, A. L., Almeida, F. M. de S., & Silva, A. F. (2026). [Agribusiness in São Paulo: Characterization and GDP performance between 2010 and 2023](https://doi.org/10.1590/1806-9479.2026.298583). *Revista de Economia e Sociologia Rural*, 64, e298583.
+
+[← All projects](../projects.qmd){.back-link}

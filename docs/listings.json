@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/projects/abatement-cost.html",
+      "/projects/saf-corn-ethanol.html",
+      "/projects/carbon-intensity-feedstuffs.html",
+      "/projects/brazilian-agribusiness-indicators.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/abatement-cost.html",
+      "/projects/saf-corn-ethanol.html",
+      "/projects/carbon-intensity-feedstuffs.html",
+      "/projects/brazilian-agribusiness-indicators.html",
+      "/projects/sao-paulo-agribusiness.html",
+      "/projects/sudoeste-paulista.html"
+    ]
+  }
+]

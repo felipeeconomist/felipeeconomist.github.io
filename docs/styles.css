@@ -50,7 +50,9 @@ a {
 .content.column-page > .research-grid,
 .content.column-page > .research-links-grid,
 .content.column-page > .experience-grid,
-.content.column-page > .skills-list {
+.content.column-page > .skills-list,
+.content.column-page > .page-intro,
+.content.column-page > .quarto-listing {
   grid-column: page-start / page-end;
   width: min(1040px, calc(100vw - 3rem));
   margin-left: 50%;
@@ -241,6 +243,7 @@ a {
 
 .project-card h3 {
   margin-top: 0;
+  font-weight: 700;
   color: var(--ink);
   font-size: 1rem;
   line-height: 1.35;
@@ -251,6 +254,109 @@ a {
   color: var(--muted);
   font-size: 0.92rem;
   line-height: 1.55;
+}
+
+.project-card h3 a,
+.featured-card h3 a {
+  color: var(--ink);
+  font-weight: inherit;
+  text-decoration: none;
+}
+
+.project-card h3 a:hover,
+.featured-card h3 a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+.project-card .project-period {
+  margin-top: 0.6rem;
+  font-size: 0.82rem;
+}
+
+.project-status {
+  display: inline-block;
+  margin-bottom: 0.6rem;
+  padding: 0.15rem 0.55rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface-soft);
+  color: var(--ink-2);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+/* ─── Featured project ───────────────────────── */
+
+.featured-card {
+  margin-top: 1rem;
+  padding: 1.25rem 1.4rem;
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 8px;
+  background: var(--surface-soft);
+}
+
+.featured-card h3 {
+  margin: 0 0 0.5rem;
+  font-weight: 700;
+  font-size: 1.12rem;
+  line-height: 1.35;
+}
+
+.featured-card p {
+  margin: 0 0 0.7rem;
+  color: var(--ink-2);
+  font-size: 0.94rem;
+  line-height: 1.6;
+}
+
+.featured-card .project-status {
+  margin-bottom: 0;
+}
+
+.see-all {
+  margin-top: 1rem;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.see-all a {
+  text-decoration: none;
+}
+
+.see-all a:hover {
+  text-decoration: underline;
+}
+
+.page-intro {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+/* ─── Project pages ───────────────────────── */
+
+.project-meta {
+  margin: 0 0 1.5rem;
+  padding: 0.7rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface-soft);
+  color: var(--ink-2);
+  font-size: 0.88rem;
+}
+
+.project-meta p {
+  margin: 0;
+}
+
+.back-link {
+  display: inline-block;
+  margin-top: 2rem;
+  font-size: 0.92rem;
+  font-weight: 600;
+  text-decoration: none;
 }
 
 /* ─── Events Section ───────────────────────── */

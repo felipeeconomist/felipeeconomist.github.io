@@ -1,0 +1,39 @@
+---
+title: "Brazilian agribusiness indicators (Cepea)"
+description: "Quarterly GDP, labor market, and producer price indicators for the Brazilian agribusiness sector."
+status: "Ongoing"
+period: "2019–present"
+team: "Center for Advanced Studies on Applied Economics (Cepea), University of São Paulo"
+order: 4
+home: true
+---
+
+::: {.project-meta}
+**Status:** {{< meta status >}} · **Period:** {{< meta period >}} · **Team:** {{< meta team >}}
+:::
+
+## About the project
+
+Cepea, at the University of São Paulo, publishes regular indicators that track the performance of Brazilian agribusiness. Agribusiness is measured as the sum of four segments: agricultural inputs, primary production, agroindustry, and agribusiness services.
+
+## Objective
+
+Provide timely, consistent measures of the size and performance of Brazilian agribusiness for researchers, policymakers, and the private sector.
+
+## My role
+
+- Calculate and monitor the agribusiness GDP and labor market indicators, and write the quarterly analytical reports.
+- Contribute to the calculation of the agricultural Producer Price Index (IPPA).
+
+## Methods
+
+- **GDP:** measured for each of the four agribusiness segments, with real income (GDP-income) as the main indicator, which combines changes in volume and in relative prices.
+- **Labor market:** based on microdata from the IBGE Continuous National Household Sample Survey (PNAD-C), using Cepea's method to identify agribusiness activities.
+
+## Latest reports
+
+- [Agribusiness GDP](https://www.cepea.org.br/br/pib-do-agronegocio-brasileiro.aspx)
+- [Agribusiness labor market](https://www.cepea.org.br/br/mercado-de-trabalho-do-agronegocio.aspx)
+- [Producer price index (IPPA)](https://www.cepea.org.br/br/analises-ippa.aspx)
+
+[← All projects](../projects.qmd){.back-link}

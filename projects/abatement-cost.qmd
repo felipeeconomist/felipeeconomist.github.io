@@ -1,0 +1,27 @@
+---
+title: "How much does it cost to reduce emissions in Nebraska? Evidence from corn and soybean production"
+description: "Estimates the cost of reducing greenhouse gas emissions in Nebraska corn and soybean production."
+status: "Dissertation chapter"
+period: "In progress"
+team: "Felipe Almeida"
+order: 1
+featured: true
+---
+
+::: {.project-meta}
+**Status:** {{< meta status >}} · **Period:** {{< meta period >}}
+:::
+
+## About the study
+
+Crop production in Nebraska is a major source of agricultural greenhouse gas emissions, and producers may soon face incentives to lower the carbon intensity of their corn and soybeans. This dissertation chapter studies what it would cost them to do so.
+
+## Objective
+
+Estimate the marginal cost of reducing greenhouse gas emissions in Nebraska corn and soybean production.
+
+## Main results
+
+Results forthcoming.
+
+[← All projects](../projects.qmd){.back-link}

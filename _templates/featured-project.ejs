@@ -1,0 +1,10 @@
+<div class="list">
+<% for (const item of items) { %>
+<div class="featured-card" <%= metadataAttrs(item) %>>
+<div class="eyebrow">Featured paper</div>
+<h3><a href="<%- item.outputHref %>"><%= item.title %></a></h3>
+<p><%= item.summary || item.description %></p>
+<% if (item.status) { %><span class="project-status"><%= item.status %></span><% } %>
+</div>
+<% } %>
+</div>

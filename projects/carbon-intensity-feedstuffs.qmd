@@ -1,0 +1,58 @@
+---
+title: "Carbon intensity of Nebraska feedstuffs"
+description: "Life-cycle carbon intensity of corn, soybeans, distillers grains, and soybean meal produced in Nebraska."
+status: "Completed"
+period: "2024–2026"
+team: "Felipe Almeida, Richard Perrin, Lilyan Fulginiti, Elliott Dennis"
+order: 3
+home: true
+---
+
+::: {.project-meta}
+**Status:** {{< meta status >}} · **Period:** {{< meta period >}} · **Team:** {{< meta team >}}
+:::
+
+## About the study
+
+New U.S. clean-fuel tax credits reward biofuels according to their carbon intensity (CI), the greenhouse gas emissions per unit of output over the production life cycle. Because feedstock emissions are a large part of fuel CI, ethanol plants and beef producers may start paying premiums for low-CI grain and feed. This project estimates the CI that Nebraska producers can expect for their crops and for the co-products fed to beef cattle.
+
+## Objective
+
+Estimate the expected life-cycle CI of corn and soybeans produced in Nebraska, by region and irrigation, and extend those estimates to distillers grains with solubles (DGS) and soybean meal (SBM).
+
+## Methods
+
+- Two life-cycle assessment models: GREET FD-CIC (U.S. Department of Energy) and IFSM (U.S. Department of Agriculture).
+- Three Nebraska regions (West, Central, East), each with irrigated and rainfed production.
+- Value-based allocation of emissions between co-products (ethanol and DGS; soybean oil and SBM).
+
+## Main results
+
+- **Corn:** expected CI of 0.29 (IFSM) and 0.25 (GREET) lb CO₂e per lb of grain dry matter, close to the U.S. default of 0.297.
+- **Soybeans:** expected CI of 0.28 (IFSM) and 0.32 (GREET), compared with a U.S. default of 0.338.
+- **Irrigation:** irrigated corn and soybeans have roughly 10% lower CI than rainfed crops.
+- **Distillers grains:** drying raises CI. Modified DGS is about 23% higher than wet DGS, and dry DGS is about 50% higher (weighted averages of 0.20–0.23 for wet, 0.25–0.28 for modified, and 0.31–0.33 for dry DGS).
+- **Soybean meal:** expected CI of 0.36 (IFSM) and 0.38 (GREET) kg CO₂e per kg of dry matter.
+
+## Outputs
+
+**Peer-reviewed articles**
+
+- Almeida, F. M. de S., Perrin, R., Fulginiti, L., & Dennis, E. (2026). [The carbon intensity (CI) of co-products fed to beef cattle in the Northern Plains](https://doi.org/10.1093/tas/txag137). *Translational Animal Science*, 10, txag137.
+- Perrin, R., Almeida, F. M. de S., Fulginiti, L., & Dennis, E. (2026). [Expected carbon intensity (CI) for Northern Plains corn and soybean](https://doi.org/10.1002/cft2.70126). *Crop, Forage & Turfgrass Management*, 12, e70126.
+
+**Cornhusker Economics**
+
+- Almeida, F. M. de S., Perrin, R. K., Fulginiti, L. E., & Dennis, E. (2025). [Expected carbon intensity (CI) of co-products fed to beef cattle in Nebraska](https://sassa.unl.edu/expected-carbon-intensity-ci-co-products-fed-beef-cattle-nebraska/). University of Nebraska–Lincoln.
+- Perrin, R. K., Almeida, F. M. de S., Fulginiti, L. E., & Dennis, E. (2025). [Expected carbon intensity (CI) of Nebraska corn and soybeans](https://sassa.unl.edu/expected-carbon-intensity-ci-nebraska-corn-and-soybeans/). University of Nebraska–Lincoln.
+
+**Webinars**
+
+- Dennis, E., Almeida, F. M. de S., & Perrin, R. (March 2026). *What's the carbon footprint of your feed? New evidence on distillers' grains and soybean meal*. Center for Agricultural Profitability, University of Nebraska–Lincoln.
+- Dennis, E., Almeida, F. M. de S., & Perrin, R. (February 2026). *Estimating what matters: Carbon intensity in corn and soybean markets*. Center for Agricultural Profitability, University of Nebraska–Lincoln.
+
+**Conference presentations**
+
+- 2025 AAEA & WAEA Joint Annual Meeting (Denver, Colorado) and 2025 Midwest Extension Farm Management and Outlook Conference (Omaha, Nebraska).
+
+[← All projects](../projects.qmd){.back-link}

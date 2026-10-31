@@ -1,0 +1,10 @@
+<div class="list projects-grid">
+<% for (const item of items) { %>
+<div class="project-card" <%= metadataAttrs(item) %>>
+<% if (item.status) { %><span class="project-status"><%= item.status %></span><% } %>
+<h3><a href="<%- item.outputHref %>"><%= item.title %></a></h3>
+<% if (item.description) { %><p><%= item.description %></p><% } %>
+<% if (item.period) { %><p class="project-period"><%= item.period %></p><% } %>
+</div>
+<% } %>
+</div>
