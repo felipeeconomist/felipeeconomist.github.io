@@ -2,7 +2,13 @@
 title: "Research"
 page-layout: full
 # Every entry on this page comes from publications.yml.
-# Each listing below shows one section of that file.
+# Each listing below shows one section of that file:
+#   contents  - the data file to read
+#   include   - keep only the entries whose `section` field matches
+#   template  - how each entry is drawn (_templates/publications.ejs)
+#   sort      - false keeps the order in which entries are written in the file
+# Each listing `id` fills the ::: {#id} placeholder with the same name below.
+# To add a publication, edit publications.yml, not this file.
 listing:
   - id: wip
     contents: publications.yml
@@ -62,6 +68,9 @@ listing:
     filter-ui: false
 ---
 
+<!-- Page layout: for each section, an <h2> heading followed by a
+     ::: {#id} placeholder that Quarto fills with that section's entries. -->
+
 ```{=html}
 <h2 class="section-title">Work in Progress</h2>
 ```
@@ -102,6 +111,7 @@ listing:
 :::
 
 ```{=html}
+<!-- Links to the recurring Cepea reports (not part of publications.yml) -->
 <p class="research-subtitle">
   Quarterly technical reports on Brazilian agribusiness,
   Center for Advanced Studies on Applied Economics (Cepea):

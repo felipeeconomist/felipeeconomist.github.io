@@ -1,5 +1,12 @@
-# Shared settings for every project page in this folder
+# Settings shared by every project page in this folder (projects/*.qmd).
+# They override the site-wide settings in _quarto.yml for these pages only.
+
+# Narrower, centered text column, easier to read than the full-width layout
 page-layout: article
+
+# styles.css hides the page title block on every page, because the main pages
+# draw their own headings. Project pages need Quarto's title block (title +
+# description), so this small style shows it again on these pages only.
 include-in-header:
   text: |
     <style>#title-block-header.quarto-title-block { display: block; }</style>

@@ -1,4 +1,6 @@
 ---
+# Page shown by GitHub Pages when an address does not exist.
+# Quarto renders it to docs/404.html with links that work from any folder.
 title: "Page not found"
 ---
 

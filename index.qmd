@@ -1,15 +1,21 @@
 ---
+# Home page. The title is hidden by styles.css; it is used for the browser tab.
 title: "Felipe Almeida"
 description: "Felipe Almeida – PhD candidate in Agricultural Economics at the University of Nebraska–Lincoln."
 page-layout: full
+
+# The "Projects" section at the bottom is built automatically from projects/*.qmd.
+# Each listing below fills one of the ::: {#...} placeholders further down this file.
 listing:
+  # Large highlighted card: the project whose front matter has `featured: true`
   - id: featured-project
     contents: "projects/*.qmd"
     include:
       featured: true
     template: _templates/featured-project.ejs
-    sort-ui: false
-    filter-ui: false
+    sort-ui: false     # hide Quarto's sort menu
+    filter-ui: false   # hide Quarto's search box
+  # Smaller cards: every project with `home: true`, ordered by its `order` field
   - id: home-projects
     contents: "projects/*.qmd"
     include:
@@ -21,13 +27,20 @@ listing:
 ---
 
 ```{=html}
+<!-- ============================================================
+     HERO: photo, profile icons, name, summary, interests, CV button.
+     This block is raw HTML; styles come from styles.css (.hero-*).
+     ============================================================ -->
 <div class="hero">
 
+<!-- Left column: photo and profile icons -->
 <div class="hero-media">
 
 <img src="images/profile.jpg" alt="Felipe Almeida"
      class="hero-photo">
 
+  <!-- Profile icons. bi-* = Bootstrap Icons, fa-brands = Font Awesome.
+       To add a profile, copy one <a> block and change the link, label and icon. -->
   <div class="social-links" aria-label="Academic and professional profiles">
 
   <a href="mailto:falmeida2@huskers.unl.edu" aria-label="Email">
@@ -58,6 +71,7 @@ listing:
 
 </div>
 
+  <!-- Right column: name, role, summary -->
   <div class="hero-content">
     <h1 class="hero-name">Felipe Almeida</h1>
     <p class="hero-role">PhD Candidate, Agricultural Economics (expected Dec 2026)</p>
@@ -67,6 +81,7 @@ listing:
 I work in agricultural and applied economics, with a focus on agribusiness and the environment. My dissertation estimates the cost of reducing greenhouse gas emissions in Nebraska corn and soybean production and the market and welfare effects of using corn ethanol for sustainable aviation fuel. I have also estimated the carbon intensity of crops and feedstuffs in Nebraska, and at Cepea (University of São Paulo) I measure the GDP and labor market of Brazilian agribusiness.
 </p>
 
+<!-- Research interests: one <span class="tag"> per interest -->
 <div class="site-section">
 
   <div class="eyebrow">
@@ -99,6 +114,7 @@ I work in agricultural and applied economics, with a focus on agribusiness and t
 
 </div>
 
+    <!-- CV button: points to the PDF in the project root -->
     <div class="action-list">
       <a href="FelipeAlmeida-CV.pdf" class="button-outline">Download CV</a>
 
@@ -109,6 +125,11 @@ I work in agricultural and applied economics, with a focus on agribusiness and t
 
 <hr class="section-rule">
 
+<!-- ============================================================
+     RECENT EVENTS: one .event-card per conference.
+     To add an event, copy a whole <div class="event-card ..."> block.
+     Each .paper-item inside a card is one presentation at that event.
+     ============================================================ -->
 <section id="events">
 
 <h2 class="section-title">
@@ -213,16 +234,23 @@ I work in agricultural and applied economics, with a focus on agribusiness and t
 
 <hr class="section-rule">
 
+<!-- ============================================================
+     PROJECTS: the cards are generated from projects/*.qmd by the
+     listings defined in the front matter at the top of this file.
+     ============================================================ -->
 <h2 class="section-title">Projects</h2>
 ```
 
+<!-- Placeholder filled by the "featured-project" listing -->
 ::: {#featured-project}
 :::
 
+<!-- Placeholder filled by the "home-projects" listing -->
 ::: {#home-projects}
 :::
 
 ```{=html}
+<!-- Link to the full Projects page -->
 <p class="see-all">
   <a href="projects.html">See all projects →</a>
 </p>

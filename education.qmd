@@ -4,6 +4,12 @@ page-layout: full
 ---
 
 ```{=html}
+<!-- This page is written in raw HTML; styles come from styles.css (.edu-*, .award-*).
+     Each degree is one <div class="edu-card">. To add a degree, copy a whole card:
+       .edu-top       school name (left) and dates (right)
+       .edu-degree    degree name
+       .edu-location  city and country
+       .edu-note      optional extra lines (advisor, thesis title, exchange, etc.) -->
 
 <h2 class="section-title">
 Education
@@ -203,6 +209,7 @@ Education
 
 <hr class="section-rule">
 
+<!-- Awards: one <div class="award-card-min"> per award (name on the left, year on the right) -->
 <h2 class="section-title">
 Scholarships, Honors, and Awards
 </h2>

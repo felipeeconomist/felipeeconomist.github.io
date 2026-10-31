@@ -1,18 +1,26 @@
+# ============================================================
+# Site-wide settings for the Quarto website.
+# Every page inherits these options unless the page overrides them
+# in its own front matter (the block between --- lines at the top).
+# ============================================================
+
 project:
-  type: website
-  output-dir: docs
+  type: website           # build a multi-page website (not a single document)
+  output-dir: docs        # rendered HTML goes to docs/, which GitHub Pages serves
   resources:
-    - FelipeAlmeida-CV.pdf
+    - FelipeAlmeida-CV.pdf   # extra files copied as-is into docs/
 
 website:
-  title: "Felipe Almeida"
-  site-url: https://felipeeconomist.github.io
-  description: "Felipe Almeida – PhD candidate in Agricultural Economics at the University of Nebraska–Lincoln."
-  favicon: images/favicon.png
-  image: images/profile.jpg
-  open-graph: true
+  title: "Felipe Almeida"                     # name at the top-left of the navbar and in browser tabs
+  site-url: https://felipeeconomist.github.io # public address; used for sitemap.xml and share previews
+  description: "Felipe Almeida – PhD candidate in Agricultural Economics at the University of Nebraska–Lincoln."  # summary for Google and link previews
+  favicon: images/favicon.png                 # small icon shown in the browser tab
+  image: images/profile.jpg                   # picture used in link previews (LinkedIn, WhatsApp, X)
+  open-graph: true                            # add preview tags for LinkedIn, WhatsApp, Facebook
   twitter-card:
-    card-style: summary
+    card-style: summary                       # small square image next to the text on X/Twitter
+
+  # Top menu. Items appear left to right in this order.
   navbar:
     right:
       - href: index.qmd
@@ -25,8 +33,11 @@ website:
         text: Experience
       - href: education.qmd
         text: Education
-      - href: FelipeAlmeida-CV.pdf
+      - href: FelipeAlmeida-CV.pdf   # opens the PDF directly
         text: CV
+
+  # Footer shown at the bottom of every page.
+  # {{< fa ... >}} inserts a Font Awesome icon (from _extensions/quarto-ext/fontawesome).
   page-footer:
     background: light
     left: © 2026 Felipe Almeida
@@ -34,11 +45,10 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    page-layout: full
-    link-external-newwindow: true
-    html-math-method: plain
+    theme: cosmo                   # Bootstrap theme from bootswatch.com; styles.css adjusts it
+    css: styles.css                # custom styles for the whole site
+    page-layout: full              # use the full page grid; styles.css limits it to 1040px
+    link-external-newwindow: true  # links to other websites open in a new tab
+    html-math-method: plain        # do not load MathJax (the site has no equations)
 
-editor: visual
-
+editor: visual   # RStudio opens .qmd files in the visual editor

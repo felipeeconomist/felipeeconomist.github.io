@@ -1,3 +1,15 @@
+<% /*
+  Template for the small project cards (Projects page and home page).
+  `items` holds the project pages selected by the listing; each card shows
+  the status badge, the title linked to the project page, the description
+  and the period, all read from the project's front matter.
+
+  - Quarto templates use lodash syntax: a "<%" tag runs JavaScript,
+    "<%=" prints a value as-is, and "<%-" prints it with HTML escaped (used for links).
+  - item.outputHref is the address of the rendered project page.
+  - Keep the HTML lines below unindented: Quarto reads this output as Markdown,
+    and lines indented 4+ spaces would turn into code blocks.
+*/ %>
 <div class="list projects-grid">
 <% for (const item of items) { %>
 <div class="project-card" <%= metadataAttrs(item) %>>

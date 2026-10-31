@@ -1,13 +1,16 @@
 ---
 title: "Projects"
 page-layout: full
+# One card per file in projects/ (files starting with "_" and drafts are skipped).
+# Cards are ordered by the `order` field in each project's front matter
+# and drawn by _templates/project-cards.ejs.
 listing:
   id: all-projects
   contents: "projects/*.qmd"
   sort: "order"
   template: _templates/project-cards.ejs
-  sort-ui: false
-  filter-ui: false
+  sort-ui: false     # hide Quarto's sort menu
+  filter-ui: false   # hide Quarto's search box
 ---
 
 ```{=html}
@@ -21,5 +24,6 @@ Select a project title to read about its objective and main results.
 </p>
 ```
 
+<!-- Placeholder filled by the "all-projects" listing defined above -->
 ::: {#all-projects}
 :::
