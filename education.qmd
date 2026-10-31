@@ -262,7 +262,7 @@ Scholarships, Honors, and Awards
 
   <div class="award-card-min">
     <div class="award-name">
-      Santander Ibero-American Scholarship, Federal University of Viçosa, Brazil
+      Santander Ibero-Americanas Scholarship, Federal University of Viçosa, Brazil
     </div>
 
     <div class="award-year">

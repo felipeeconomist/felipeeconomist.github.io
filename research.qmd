@@ -428,14 +428,14 @@ Extension, Outreach, and Technical Reports
       Fulginiti, L. E., & Dennis, E. (2025).
       
       <em>
-        Carbon intensity of co-products
+        Expected carbon intensity (CI) of co-products
         fed to beef cattle in Nebraska
       </em>.
-      
+
       Cornhusker Economics,
       University of Nebraska–Lincoln.
-      
-      <a href="https://agecon.unl.edu/expected-carbon-intensity-ci-co-products-fed-beef-cattle-nebraska/">
+
+      <a href="https://sassa.unl.edu/expected-carbon-intensity-ci-co-products-fed-beef-cattle-nebraska/">
         Link
       </a>
 
@@ -451,14 +451,14 @@ Extension, Outreach, and Technical Reports
       Fulginiti, L. E., & Dennis, E. (2025).
       
       <em>
-        Expected carbon intensity
+        Expected carbon intensity (CI)
         of Nebraska corn and soybeans
       </em>.
-      
+
       Cornhusker Economics,
       University of Nebraska–Lincoln.
-      
-      <a href="https://agecon.unl.edu/expected-carbon-intensity-ci-nebraska-corn-and-soybeans/">
+
+      <a href="https://sassa.unl.edu/expected-carbon-intensity-ci-nebraska-corn-and-soybeans/">
         Link
       </a>
 

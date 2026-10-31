@@ -59,7 +59,7 @@ Teaching Experience
 
       <div>
         <div class="experience-role">
-          Advisor
+          MBA Thesis Advisor
         </div>
 
         <div class="experience-place">
@@ -225,13 +225,12 @@ Professional Experience
 
     <div class="experience-description">
 
-      Led GDP and labor market analysis
-      for Brazilian agribusiness,
-      coordinated data collection,
-      and produced quarterly analytical reports.
-      
-      Contributed to Producer Price Index estimation
-      and sectoral price analysis.
+      Calculate and monitor GDP and labor market indicators
+      for Brazilian agribusiness and write quarterly analytical reports.
+      Coordinate the agribusiness GDP and labor market indicators
+      for the state of São Paulo.
+      Contribute to the calculation of the agricultural
+      Producer Price Index.
 
     </div>
 
