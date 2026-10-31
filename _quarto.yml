@@ -17,14 +17,16 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: education.qmd
-        text: Education
       - href: research.qmd
         text: Research
       - href: projects.qmd
         text: Projects
       - href: experience.qmd
         text: Experience
+      - href: education.qmd
+        text: Education
+      - href: FelipeAlmeida-CV.pdf
+        text: CV
   page-footer:
     background: light
     left: © 2026 Felipe Almeida
