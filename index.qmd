@@ -39,6 +39,11 @@ listing:
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/orcid.svg" alt="">
 </a>
 
+<a href="https://scholar.google.com/citations?user=bSxvr5wAAAAJ"
+   target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlescholar.svg" alt="">
+</a>
+
   <a href="https://www.linkedin.com/in/felipe-miranda-de-souza-almeida-64522599"
      target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="">
