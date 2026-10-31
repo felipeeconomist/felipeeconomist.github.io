@@ -4,6 +4,12 @@ title: "Felipe Almeida"
 description: "Felipe Almeida – PhD candidate in Agricultural Economics at the University of Nebraska–Lincoln."
 page-layout: full
 
+# Proves to Google Search Console that this site belongs to Felipe.
+# Keep it here: removing it can make Search Console lose access.
+include-in-header:
+  text: |
+    <meta name="google-site-verification" content="EvSHiIVDX9F_W8cTaRABuGYjstarUqCEcIdN7q97lo0" />
+
 # The "Projects" section at the bottom is built automatically from projects/*.qmd.
 # Each listing below fills one of the ::: {#...} placeholders further down this file.
 listing:
